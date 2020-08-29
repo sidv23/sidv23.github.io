@@ -4,8 +4,9 @@ const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
 module.exports = {
+  pathPrefix: "/sidv23",
   siteMetadata: {
-    siteUrl: siteConfig.url,
+    url: siteConfig.url,
     title: siteConfig.title,
     subtitle: siteConfig.subtitle,
     categoryMeta: siteConfig.categoryMeta,

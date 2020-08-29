@@ -6,7 +6,7 @@ require('dotenv').config({
 });
 
 module.exports = {
-  url: 'https://heyayush.com/',
+  url: 'https://sidv23.github.io',
   title: 'Ayush Sharma | Web developer freelancer',
   subtitle: `Portfolio and Personal blog of Ayush Sharma | Web developer,
     front-end specialist, freelancer, web consultant, travel blogger`,
