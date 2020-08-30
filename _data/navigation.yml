@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "Interests"
+    url: /interests/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Statistical Learning Theory Working Group"
+    url: /stag/
