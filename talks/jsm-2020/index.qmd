@@ -1,0 +1,13 @@
+---
+title: "Statistical Invariance of Betti Numbers"
+author: "Siddharth Vishwanath"
+date: "2020-08-03"
+categories: [tda]
+---
+
+**Joint Statistical Meetings, 2020**
+
+
+The link to the slides is [here](https://sidvishwanath.com/slides/jsm-2020/).
+
+<iframe src="https://sidvishwanath.com/slides/jsm-2020/" width="900" height="550"></iframe>

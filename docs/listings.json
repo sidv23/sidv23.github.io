@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/jan-2023/index.html",
+      "/talks/CAst-2022/index.html",
+      "/talks/jsm-2021/index.html",
+      "/talks/neurips-2020/index.html",
+      "/talks/comps-2020/index.html",
+      "/talks/oct-2021/index.html",
+      "/talks/smac-2020/index.html",
+      "/talks/jsm-2020/index.html",
+      "/talks/atmcs-2020/index.html"
+    ]
+  }
+]

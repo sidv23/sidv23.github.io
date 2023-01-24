@@ -1,0 +1,11 @@
+{
+  "hash": "21e808907293582277e823e053a56f32",
+  "result": {
+    "markdown": "---\ntitle: \" \"\n# about:\n#   template: trestles\n#   image: images/profile2.jpeg\n#   links:\n#     - icon: github\n#       href: https://github.com/mariecurie\n#     - icon: envelope\n#       href: mailto:Marie.Curie@ens.fr\n# include-before-body: \"Hi\"\n---\n\n<script src=\"https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css\">\n\n\n```{html}\n<div class=\"juxtapose\">\n    <img src=\"https://juxtapose.knightlab.com/static/img/Sochi_11April2005.jpg\" />\n    <img src=\"https://juxtapose.knightlab.com/static/img/Sochi_22Nov2013.jpg\" />\n</div>\n\n```\n\n\n::: {style=\"font-size: 30px; text-shadow: 0 0 2px;\"}\n**Siddharth** Vishwanath\n:::\n\n**PhD Student in Statistics**<br>\nPenn State University<br>\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

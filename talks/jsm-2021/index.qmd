@@ -1,0 +1,13 @@
+---
+title: "Robust Persistence Diagrams"
+author: "Siddharth Vishwanath"
+date: "2021-08-01"
+categories: [tda]
+---
+
+**Joint Statistical Meetings, 2021**
+
+
+The link to the slides is [here](https://sidvishwanath.com/slides/jsm-2020/).
+
+<iframe src="https://sidvishwanath.com/slides/jsm-2020/" width="900" height="550"></iframe>

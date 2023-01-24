@@ -1,0 +1,10 @@
+---
+title: "Overview of Robust TDA"
+author: "Siddharth Vishwanath"
+date: "2020-10-01"
+categories: [tda]
+---
+
+The link to the slides is [here](https://sidvishwanath.com/sep31/#1).
+
+<iframe src="https://sidvishwanath.com/sep31/#1" width="900" height="550"></iframe>

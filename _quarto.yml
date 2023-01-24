@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Siddharth Vishwanath"
+  favicon: icons/icon-48x48.png
+  twitter-card: true
+  open-graph: true
+  google-analytics: "UA-41844991-1"
+  description: "Homepage"
+  page-footer:
+    left: '`Siddharth Vishwanath. 2023`'
+    right: "`Built with` [`Quarto`](https://quarto.org/)"
+  navbar:
+    align: center
+    logo: icons/icon-192x192.png
+    title: false
+    pinned: true
+    search: true
+    style: fixed
+    background: light
+    collapse-level: 1
+    # right:
+    #   - icon: github
+    #     href: https://github.com/
+    #   - icon: twitter
+    #     href: https://twitter.com
+    # left:
+    right:
+    - href: /
+      text: Home
+    - href: research.qmd
+      text: Research
+    - href: teaching.qmd
+      text: Teaching
+    - href: talks.qmd
+      text: Talks
+    - href: cv.qmd
+      text: CV
+    - href: 404.qmd
+      text: $\zeta(-1)$
+format:
+  html:
+    theme: 
+      light: cosmo
+      # dark: slate
+    css: [themes/styles.css, themes/styles.css, themes/theme.scss ]
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
+    include-after-body: 
+      file: footer.html

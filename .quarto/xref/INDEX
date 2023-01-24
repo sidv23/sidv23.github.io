@@ -1,0 +1,83 @@
+{
+  "index.qmd": {
+    "index.html": "cda6e17f"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "372b6ab2"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "5aedaf28"
+  },
+  "about.qmd": {
+    "about.html": "79582a8d"
+  },
+  "blog.qmd": {
+    "blog.html": "7e082c8e"
+  },
+  "talks.qmd": {
+    "talks.html": "7c54aaf5"
+  },
+  "talks/post-with-code/index.qmd": {
+    "index.html": "931ea63d"
+  },
+  "talks/welcome/index.qmd": {
+    "index.html": "f612c5cc"
+  },
+  "research.qmd": {
+    "research.html": "42e88372"
+  },
+  "pages/talks.qmd": {
+    "talks.html": "52881be0"
+  },
+  "cv.qmd": {
+    "cv.html": "c36a3626"
+  },
+  "teaching.qmd": {
+    "teaching.html": "007d8695"
+  },
+  "talks/atmcs-2020/index.qmd": {
+    "index.html": "c7a47556"
+  },
+  "talks/smac-2020/index.qmd": {
+    "index.html": "9335e1c1"
+  },
+  "talks/jsm-2020/index.qmd": {
+    "index.html": "5a103ab4"
+  },
+  "talks/smac-2020 copy 2/index.qmd": {
+    "index.html": "268ee2b2"
+  },
+  "talks/smac-2020 copy 3/index.qmd": {
+    "index.html": "5512bd5d"
+  },
+  "talks/smac-2020 copy 4/index.qmd": {
+    "index.html": "ec3abeea"
+  },
+  "talks/smac-2020 copy 5/index.qmd": {
+    "index.html": "a5d54560"
+  },
+  "talks/smac-2020 copy/index.qmd": {
+    "index.html": "637a0c97"
+  },
+  "talks/neurips-2020/index.qmd": {
+    "index.html": "fee9fd64"
+  },
+  "talks/comps-2020/index.qmd": {
+    "index.html": "843e8c38"
+  },
+  "talks/oct-2021/index.qmd": {
+    "index.html": "f7520528"
+  },
+  "talks/CAst-2022/index.qmd": {
+    "index.html": "1fd83ff9"
+  },
+  "talks/jan-2023/index.qmd": {
+    "index.html": "0be2584a"
+  },
+  "talks/jsm-2021/index.qmd": {
+    "index.html": "e09f7872"
+  },
+  "404.qmd": {
+    "404.html": "2f3ca85f"
+  }
+}

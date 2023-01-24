@@ -1,0 +1,93 @@
+/* css styles */
+
+
+.center {
+    text-align: center;
+    align-items: center;
+}
+
+.LARGE {
+    font-size: 200%
+}
+
+.Large {
+    font-size: 144%
+}
+
+.large {
+    font-size: 120%
+}
+
+.small {
+    font-size: 90%
+}
+
+.footnotesize {
+    font-size: 80%
+}
+
+.scriptsize {
+    font-size: 70%
+}
+
+.tiny {
+    font-size: 60%
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.shadow {
+    -moz-border-radius: 5px;
+    -moz-box-shadow: 5px 5px 5px #aaa;
+    -webkit-box-shadow: 5px 5px 5px #aaa;
+    box-shadow: 5px 5px 5px #aaa;
+    border-radius: 2px;
+}
+
+.blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+
+.bold-text-shadow {
+    text-shadow: 0 0 4px #424242;
+}
+
+.text-shadow {
+    text-shadow: 0 0 1px #424242;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+
+a.jx-knightlab:focus span.juxtapose-name {
+    color: #ffffff00;
+    border: none;
+}
+
+a.jx-knightlab span.juxtapose-name {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 1;
+    color: white;
+    font-size: 1px;
+    padding-left: 0.375em;
+    vertical-align: middle;
+    line-height: normal;
+    text-shadow: none;
+}

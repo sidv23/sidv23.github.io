@@ -1,0 +1,46 @@
+---
+title: "Post With Code"
+author: "Siddharth Vishwanath"
+date: "2023-01-23"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+This chunk executes `R` code
+
+```{r renv.ignore=FALSE}
+library(reticulate)
+library(JuliaCall)
+```
+
+```{r}
+plot(
+    rnorm(100), 
+    rnorm(100),
+    pch=20,
+    col="dodgerblue1"
+)
+```
+
+
+
+
+This chunk executes `python` code
+
+
+```python
+import os
+os.getwd()
+```
+This chunk executes `Julia` code
+
+```{julia}
+using Plots
+plot(
+    1:0.1:5, 
+    x -> x^1.1 + log(x) * sinpi(x), 
+    label=""
+)
+```

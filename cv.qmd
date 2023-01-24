@@ -1,0 +1,78 @@
+---
+title: "CV"
+permalink: /cv/
+redirect_from:
+  - /cv
+---
+
+
+My [CV](/files/cv.pdf) is also available as a PDF. (Updated Dec 2022)
+
+
+---
+
+#### Education
+{{< fa graduation-cap >}} &nbsp; Ph.D., Statistics, 2017-Present<br> 
+[_Penn State University_]{.dodgerblue}
+
+
+{{< fa graduation-cap >}} &nbsp; M.Sc. (Integrated), Mathematics, 2010---2015 <br> 
+[_Indian Institute of Technology, Kanpur_]{.dodgerblue}
+
+
+
+
+---
+
+#### Academic Milestones
+
+{{< fa star >}} &nbsp; Research Assistant, Statistical Consulting Center @ Penn State, 2019-2020
+
+{{< fa star >}} &nbsp; Student Travel Award, Geometric Data Analysis, University of Chicago, 2019
+
+{{< fa star >}} &nbsp; Proficiency Medal, Indian Institute of Technology - Kanpur, 2015
+
+{{< fa star >}} &nbsp; Academic Excellence Award, Indian Institute of Technology - Kanpur, 2015
+
+{{< fa star >}} &nbsp; KVPY Fellowship, 2010-2015
+
+
+---
+
+#### Academic experience
+
+{{< fa feather >}} &nbsp;  Graduate Research Assistant, Penn State University, July 2020 <br> [*Hamiltonian Monte Carlo for Multimodal Sampling.* Supervised by Hyungsuk Tak]{.small}
+
+{{< fa feather >}} &nbsp;  Graduate Research Assistant, Penn State University, June 2020 <br> [*Robust persistence diagrams using reproducing kernels.* Supervised by Bharath Sriperumbudur]{.small}
+
+{{< fa feather >}} &nbsp;  Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2019 <br> [*Robust persistence diagrams.* Hosted by Satoshi Kuriki & Kenji Fukumizu]{.small}
+
+{{< fa feather >}} &nbsp;  Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2018 <br> [*Statistical inference from Betti numbers.* Hosted by Satoshi Kuriki & Kenji Fukumizu]{.small}
+
+
+---
+
+#### Professional Experience
+
+{{< fa briefcase >}} &nbsp; Research Intern, **IBM Research** (2022)
+
+{{< fa briefcase >}} &nbsp; Market Risk Strat, **Goldman Sachs** (2016-2017)
+
+{{< fa briefcase >}} &nbsp; Model Validation Quant, **Nomura** (2015-2016)
+
+
+---
+
+#### Skills
+
+{{< fa terminal >}} Programming &nbsp; `Julia, R, Python, C/C++, MATLAB, SQL`
+
+{{< fa earth-americas >}} Languages &nbsp; `English, Kannada, Hindi, French`
+
+---
+
+#### Leadership and Service
+
+{{< fa hand-holding-heart >}} &nbsp; **Finance Convener**, Students' Senate, Indian Institute of Technology Kanpur
+
+{{< fa hand-holding-heart >}} &nbsp; **Undergraduate Senator**, Indian Institute of Technology Kanpur

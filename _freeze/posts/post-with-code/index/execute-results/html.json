@@ -1,0 +1,11 @@
+{
+  "hash": "a2acddae9d004b15dcadca7a108a72b0",
+  "result": {
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Siddharth Vishwanath\"\ndate: \"2023-01-23\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\n\nThis chunk executes `R` code\n\n```r\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\n```\n\n\n\nThis chunk executes `python` code\n\n\n```python\nimport os\nos.getwd()\n```\nThis chunk executes `Julia` code\n\n::: {.cell execution_count=1}\n``` {.julia .cell-code}\nusing Plots\nplot(\n    1:0.1:5, \n    x -> x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)\n```\n\n::: {.cell-output .cell-output-display execution_count=14}\n![](index_files/figure-html/cell-2-output-1.svg){}\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

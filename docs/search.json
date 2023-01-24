@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV is also available as a PDF. (Updated Dec 2022)\n\n\nEducation\n   Ph.D., Statistics, 2017-Present Penn State University\n   M.Sc. (Integrated), Mathematics, 2010—2015  Indian Institute of Technology, Kanpur\n\n\n\nAcademic Milestones\n   Research Assistant, Statistical Consulting Center @ Penn State, 2019-2020\n   Student Travel Award, Geometric Data Analysis, University of Chicago, 2019\n   Proficiency Medal, Indian Institute of Technology - Kanpur, 2015\n   Academic Excellence Award, Indian Institute of Technology - Kanpur, 2015\n   KVPY Fellowship, 2010-2015\n\n\n\nAcademic experience\n   Graduate Research Assistant, Penn State University, July 2020  Hamiltonian Monte Carlo for Multimodal Sampling. Supervised by Hyungsuk Tak\n   Graduate Research Assistant, Penn State University, June 2020  Robust persistence diagrams using reproducing kernels. Supervised by Bharath Sriperumbudur\n   Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2019  Robust persistence diagrams. Hosted by Satoshi Kuriki & Kenji Fukumizu\n   Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2018  Statistical inference from Betti numbers. Hosted by Satoshi Kuriki & Kenji Fukumizu\n\n\n\nProfessional Experience\n   Research Intern, IBM Research (2022)\n   Market Risk Strat, Goldman Sachs (2016-2017)\n   Model Validation Quant, Nomura (2015-2016)\n\n\n\nSkills\n Programming   Julia, R, Python, C/C++, MATLAB, SQL\n Languages   English, Kannada, Hindi, French\n\n\n\nLeadership and Service\n   Finance Convener, Students’ Senate, Indian Institute of Technology Kanpur\n   Undergraduate Senator, Indian Institute of Technology Kanpur"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Siddharth Vishwanath",
+    "section": "",
+    "text": "Siddharth Vishwanath\n\n\n\n\n\n\n\n \n\n\n\n\n               \n\n\n\n\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur\n\n\n\n\n\nI am a Ph.D. student in the Department of Statistics at Penn State University, advised by Dr. Bharath Sriperumbudur. I am also a research assistant with the Statistical Consulting Center at Penn State.\nPrior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the Indian Institute of Technology, Kanpur with an M.Sc.(Integrated) in Mathematics and Statistics under the supervision of Dr. Debasis Kundu.\nMy research interests are broadly in the areas of:\n\nTopological Data Analysis: Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference\nStatistical Learning Theory: Reproducing kernel Hilbert spaces in probability and statistics, differential privacy\nProbabilistic Methods: Hamiltonian Monte Carlo, generative models"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\nThis chunk executes R code\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\nThis chunk executes python code\nimport os\nos.getwd()\nThis chunk executes Julia code\n\nusing Plots\nplot(\n    1:0.1:5, \n    x -> x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling\n\n\n\n\n\nSiddharth Vishwanath & Hyungsuk Tak In Preparation. (2022)\n\n\n\n\n\n\n\n\n\n\nTopological Inference for Random Dot-Product Graphs under Local Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath & Jonathan Hehir In Preparation. (2022)\n\n\n\n\n\n\n\n\n\n\nEfficient and Outlier Robust Topological Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Submitted. (2022)\n[arXiv], [code]\n\n\n\n\n\n\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Submitted. (2022)\n[arXiv], [Slides], [Talk]\n\n\n\n\n\n\n\n\n\n\nThe Shape of Edge Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath & Jonathan Hehir Theory and Practice of Differential Privacy Workshop. ICML. (2021)\n[Poster], [Workshop Paper]\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Advances in Neural Information Processing Systems. NeurIPS. (2020)\n[Link], [Slides], [Code], [Poster]\n\n\n\n\n\n\n\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\n\n\n\nSiddharth Vishwanath & Debasis Kundu Advances in Reliability and System Engineering. Springer. (2017)\n[Link]"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nTopological Inference for gRDPGs\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nJan 18, 2023\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nAug 1, 2021\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nDec 8, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nDec 4, 2020\n\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nOct 1, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nSep 14, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nAug 3, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nJul 21, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/CAst-2022/index.html",
+    "href": "talks/CAst-2022/index.html",
+    "title": "Hamiltonian Repelling Attracting Metropolis Algorithm",
+    "section": "",
+    "text": "Center for Astrostatistics, 2022\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/atmcs-2020/index.html",
+    "href": "talks/atmcs-2020/index.html",
+    "title": "Statistical Invariance of Betti Numbers",
+    "section": "",
+    "text": "Applied Topology: Methods, Compuation and Science, 2021\nThe link to the slides is here. You can also wacth the talk on YouTube here"
+  },
+  {
+    "objectID": "talks/comps-2020/index.html",
+    "href": "talks/comps-2020/index.html",
+    "title": "Statistical Learning for Robust Topological Inference",
+    "section": "",
+    "text": "Slides for My Comprehensive Exam\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/jan-2023/index.html",
+    "href": "talks/jan-2023/index.html",
+    "title": "Topological Inference for gRDPGs",
+    "section": "",
+    "text": "Under Differential Privacy\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/jsm-2020/index.html",
+    "href": "talks/jsm-2020/index.html",
+    "title": "Statistical Invariance of Betti Numbers",
+    "section": "",
+    "text": "Joint Statistical Meetings, 2020\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/jsm-2021/index.html",
+    "href": "talks/jsm-2021/index.html",
+    "title": "Robust Persistence Diagrams",
+    "section": "",
+    "text": "Joint Statistical Meetings, 2021\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/neurips-2020/index.html",
+    "href": "talks/neurips-2020/index.html",
+    "title": "Robust Persistence Diagrams using Reproducing Kernels",
+    "section": "",
+    "text": "NeurIPS 2020\nThe link to the slides is here."
+  },
+  {
+    "objectID": "talks/oct-2021/index.html",
+    "href": "talks/oct-2021/index.html",
+    "title": "Overview of Robust TDA",
+    "section": "",
+    "text": "The link to the slides is here."
+  },
+  {
+    "objectID": "talks/smac-2020/index.html",
+    "href": "talks/smac-2020/index.html",
+    "title": "Statistical Inference for TDA",
+    "section": "",
+    "text": "Stohastic Modelling and Computational Statistics Talk, 2020\nThe link to the slides is here."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2023: Stat 380, Data Science through statistical reasoning (course website)\nFall 2022: Stat 319, Fundamentals of Mathematical Statistics (course website)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nFall 2021: Stat 597, Nonparametrics and Statistical Learning Theory (course website)\nSummer 2019: Stat 504, Multivariate Analysis\nSpring 2019: Stat 250, Introduction to Biostatistics\nFall 2018: Stat 511, Graduate Course on Regression Analysis\nFall 2017: Stat 415, Introduction to Mathematical Statistics"
+  }
+]

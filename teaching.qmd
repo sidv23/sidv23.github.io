@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+permalink: /teaching/
+redirect_from:
+  - /teaching
+---
+
+
+## Instructor
+
+1. **Spring 2023**: Stat 380, Data Science through statistical reasoning ([course website](https://psu-stat380.github.io))
+
+1. **Fall 2022**: Stat 319, Fundamentals of Mathematical Statistics ([course website](https://sidvishwanath.com/stat319))
+
+
+## Teaching Assistant
+
+1. **Fall 2021**: Stat 597, Nonparametrics and Statistical Learning Theory ([course website](https://psu-stat380.github.io))
+
+1. **Summer 2019**: Stat 504, Multivariate Analysis
+
+1. **Spring 2019**: Stat 250, Introduction to Biostatistics
+
+1. **Fall 2018**: Stat 511, Graduate Course on Regression Analysis
+
+1. **Fall 2017**: Stat 415, Introduction to Mathematical Statistics

@@ -1,0 +1,13 @@
+---
+title: "Statistical Learning for Robust Topological Inference"
+author: "Siddharth Vishwanath"
+date: "2020-12-04"
+categories: [tda]
+---
+
+**Slides for My Comprehensive Exam**
+
+
+The link to the slides is [here](https://sidvishwanath.com/slides/dec-2020/#1).
+
+<iframe src="https://sidvishwanath.com/slides/dec-2020/#1" width="900" height="550"></iframe>

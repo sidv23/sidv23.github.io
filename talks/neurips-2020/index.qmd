@@ -1,0 +1,13 @@
+---
+title: "Robust Persistence Diagrams using Reproducing Kernels"
+author: "Siddharth Vishwanath"
+date: "2020-12-08"
+categories: [tda]
+---
+
+**NeurIPS 2020**
+
+
+The link to the slides is [here](https://sidvishwanath.com/slides/neurips-2020/).
+
+<iframe src="https://sidvishwanath.com/slides/neurips-2020/" width="900" height="550"></iframe>

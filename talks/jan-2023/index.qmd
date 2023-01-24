@@ -1,0 +1,13 @@
+---
+title: "Topological Inference for gRDPGs"
+author: "Siddharth Vishwanath"
+date: "2023-01-18"
+categories: [tda, differential privacy, random graphs]
+---
+
+**Under Differential Privacy**
+
+
+The link to the slides is [here](https://sidvishwanath.com/jan18/).
+
+<iframe src="https://sidvishwanath.com/jan18/" width="900" height="550"></iframe>

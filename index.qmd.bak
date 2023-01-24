@@ -1,0 +1,43 @@
+---
+title: " "
+about:
+  template: trestles
+  image: images/profile2.jpeg
+  image-width: 250px
+  image-shape: rounded
+#   links:
+#     - icon: github
+#       href: https://github.com/mariecurie
+#     - icon: envelope
+#       href: mailto:Marie.Curie@ens.fr
+include-before-body:
+  text: <script src=""></script> <link rel="stylesheet" href="">
+---
+
+::: {style="text-align: right;"}
+[**Siddharth** Vishwanath]{style="font-size: 35px; text-shadow: 0 0 5px white; font-weight: 350;"}
+:::
+
+---
+
+<div class="juxtapose" data-startingposition="50%" width="10%">
+  <img src="images/profile1.jpg" data-label="" alt="" width="50">
+  <img src="images/profile1-1.png" data-label="" alt="" width="50">
+</div>
+
+
+::: {style="font-size: 15px"}
+I am a Ph.D. student in the [Department of Statistics](http://stat.psu.edu/) at [Penn State University](https://www.psu.edu/), advised by [Dr. Bharath Sriperumbudur](http://personal.psu.edu/bks18/). I am also a research assistant with the [Statistical Consulting Center](https://scc.stat.psu.edu/) at Penn State.
+
+Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) with an M.Sc.(Integrated) in Mathematics and Statistics under the supervision of [Dr. Debasis Kundu](http://home.iitk.ac.in/~kundu/kundu.html).
+
+
+My research interests are broadly in the areas of:
+
+* **Topological Data Analysis:** Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference
+
+* **Statistical Learning Theory:** Reproducing kernel Hilbert spaces in probability and statistics, differential privacy
+
+* **Probabilistic Methods:** Hamiltonian Monte Carlo, generative models
+
+:::

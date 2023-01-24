@@ -1,0 +1,73 @@
+/*-- css:defaults --*/
+:root {
+    --psublue: #1e407c;
+    --psu-blue: #1e407c;
+    --black: black;
+    --white: white;
+    --red: red;
+    --blue: blue;
+    --green: green;
+    --yellow: yellow;
+    --orange: orange;
+    --purple: purple;
+    --gray: gray;
+    --grey: gray;
+    --dblue: #1058ad;
+    --orchid: #db43d5;
+    --dorange: #ff5900;
+}
+
+
+.psu-blue{ color: #1e407c}
+.psublue{ color: #1e407c}
+.black { color: black; }
+.red { color: red; }
+.blue { color: blue; }
+.green { color: green; }
+.yellow { color: yellow; }
+.orange { color: orange; }
+.purple { color: purple; }
+.gray { color: gray; }
+.grey { color: gray; }
+.dblue { color: #1058ad; }
+.orchid { color: #db43d5; }
+.dorange { color: #ff5900; }
+.dodgerblue { color: dodgerblue; }
+
+.content-box-square {
+    box-sizing: content-box;
+    background-color: var(--color, #e2e2e2);
+    /* opacity: 0.9; */
+    /* background-color: #e2e2e2; */
+    /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+.content-box {
+    /* background-color: var(--color, #e2e2e2); */
+    background-color: var(--color, #e2e2e2);
+    /* opacity: 0.9; */
+    border-radius: 15px;
+    margin: 0 0 0px;
+    overflow: hidden;
+    padding: 10px 25px ;
+    width: 97%;
+    align-self: center;
+}
+.content-box-blue,
+.content-box-gray,
+.content-box-grey,
+.content-box-army,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow {
+    background-color:  var(--color, #e2e2e2);
+    border-radius: 15px;
+    margin: 0 0 0px;
+    overflow: hidden;
+    padding: 1px;
+    width: 100%;
+}
