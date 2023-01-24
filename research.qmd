@@ -58,8 +58,8 @@ Submitted. (2022)
 [Siddharth Vishwanath]{.dodgerblue} & Jonathan Hehir<br>
 Theory and Practice of Differential Privacy Workshop. ICML. (2021)
 
-[[Poster](https://sidvishwanath.com/files/tpdp-2021-poster.pdf)], 
-[[Workshop Paper](https://sidvishwanath.com/files/tpdp-2021-paper.pdf)]
+[[Poster](files/tpdp-2021-poster.pdf)], 
+[[Workshop Paper](files/tpdp-2021-paper.pdf)]
 :::
 
 
