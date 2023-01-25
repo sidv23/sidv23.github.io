@@ -48,7 +48,7 @@ format:
     theme: 
       light: cosmo
       # dark: slate
-    css: [themes/styles.css, themes/styles.css, themes/theme.scss ]
+    css: ["themes/theme.scss", "themes/custom.css", "themes/styles.css", "themes/colors.css"]
     toc: true
     html-math-method: katex
     include-in-header:
