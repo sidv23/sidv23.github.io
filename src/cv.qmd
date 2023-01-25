@@ -25,7 +25,7 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
 
 {{< fa briefcase >}} &nbsp; Consultant, **Penn State University**, 2022
 
-{{< fa briefcase >}} &nbsp; Visiting Student Researcher, **Institute of Mathematical Statistics**, 2019 & 2018
+{{< fa briefcase >}} &nbsp; Visiting Student Researcher, **Institute of Statistical Mathematics**, 2019 & 2018
 
 {{< fa briefcase >}} &nbsp; Market Risk Strat, **Goldman Sachs**, 2016---2017
 
