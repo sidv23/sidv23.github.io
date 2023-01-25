@@ -1,0 +1,91 @@
+---
+title: "Research"
+permalink: /research/
+redirect_from:
+  - /research
+---
+
+
+
+<!--  -->
+
+::: {.callout-warning icon=false collapse=false}
+## Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling
+
+[Siddharth Vishwanath]{.dodgerblue} & Hyungsuk Tak<br>
+In Preparation. (2022)
+:::
+
+
+<!--  -->
+
+::: {.callout-warning icon=false collapse=false}
+##  Topological Inference for Random Dot-Product Graphs under Local Differential Privacy 
+
+[Siddharth Vishwanath]{.dodgerblue} & Jonathan Hehir<br>
+In Preparation. (2022)
+:::
+
+<!--  -->
+
+::: {.callout-note icon=false collapse=false}
+##  Efficient and Outlier Robust Topological Inference 
+
+[Siddharth Vishwanath]{.dodgerblue}, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki<br>
+Submitted. (2022)
+
+[[arXiv](https://arxiv.org/abs/2206.01795)], 
+[[code](https://github.com/sidv23/momdist)]
+:::
+
+<!--  -->
+
+::: {.callout-note icon=false collapse=false}
+## On the limits of Topological Data Analysis for Statistical Inference
+
+[Siddharth Vishwanath]{.dodgerblue}, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki<br>
+Submitted. (2022)
+
+[[arXiv](https://arxiv.org/abs/2001.00220)], 
+[[Slides](https://sidv23.github.io/atmcs-2020)], 
+[[Talk](https://www.youtube.com/watch?v=9K2ynjC5R0c)]
+:::
+
+
+<!--  -->
+
+::: {.callout-note icon=false collapse=false}
+## The Shape of Edge Differential Privacy
+
+[Siddharth Vishwanath]{.dodgerblue} & Jonathan Hehir<br>
+Theory and Practice of Differential Privacy Workshop. ICML. (2021)
+
+[[Poster](files/tpdp-2021-poster.pdf)], 
+[[Workshop Paper](files/tpdp-2021-paper.pdf)]
+:::
+
+
+
+
+<!--  -->
+::: {.callout-note icon=false collapse=false}
+## Robust Persistence Diagrams using Reproducing Kernels
+
+[Siddharth Vishwanath]{.dodgerblue}, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki<br>
+Advances in Neural Information Processing Systems. NeurIPS. (2020)
+
+[[Link](https://proceedings.neurips.cc/paper/2020/hash/f99499791ad90c9c0ba9852622d0d15f-Abstract.html)], 
+[[Slides](https://sidvishwanath.com/slides/neurips-2020/#1)], 
+[[Code](https://github.com/sidv23/robust-PDs)], 
+[[Poster](https://github.com/sidv23/posters/blob/main/robust-pd.pdf)]
+:::
+
+<!--  -->
+::: {.callout-note icon=false collapse=false}
+## Bayesian Inference and Optimal Censoring Scheme under Progressive Censoring
+
+[Siddharth Vishwanath]{.dodgerblue} & Debasis Kundu<br>
+Advances in Reliability and System Engineering. Springer. (2017)
+
+[[Link](https://ndl.ethernet.edu.et/bitstream/123456789/1121/1/Advances%20in%20Reliability%20and%20System%20Engineering.pdf#page=243)]
+:::

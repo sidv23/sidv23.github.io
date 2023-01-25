@@ -1,0 +1,100 @@
+- title: Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling
+  authors: [Siddharth Vishwanath, Hyungsuk Tak]
+  date: 2022-01-01
+  journal: In Preparation
+  status: unpublished
+  info:
+
+- title: Topological Inference for Random Dot-Product Graphs under Local Differential Privacy 
+  authors: [Siddharth Vishwanath, Jonathan Hehir]
+  date: 2022-02-12
+  journal: In Preparation
+  status: unpublished
+  info:
+
+- title: Efficient and Outlier Robust Topological Inference 
+  authors: 
+  - Siddharth Vishwanath
+  - Bharath Sriperumbudur
+  - Kenji Fukumizu
+  - and Satoshi Kuriki
+  date: 2022-02-12
+  journal: Under Review
+  status: published
+  info:
+  - name: arXiv
+    url: https://arxiv.org/abs/2206.01795
+  - name: code
+    url: https://github.com/sidv23/momdist
+
+
+- title: On the limits of Topological Data Analysis for Statistical Inference
+  authors:
+  - Siddharth Vishwanath
+  - Kenji Fukumizu
+  - Satoshi Kuriki
+  - and Bharath Sriperumbudur
+  date: 2022-02-12
+  journal: Under Review.
+  status: published
+  info:
+  - name: arXiv
+    url: https://arxiv.org/abs/2001.00220
+  - name: Slides
+    url: https://sidv23.github.io/atmcs-2020
+  - name: Talk
+    url: https://www.youtube.com/watch?v=9K2ynjC5R0c
+
+- title: Monolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection
+  authors: [Robert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon]
+  date: 2022-02-12
+  journal: Soil Science Society of America Journal. Springer
+  status: published
+  info:
+  - name: Link
+    url: https://doi.org/10.1002/saj2.20509
+
+
+- title: The Shape of Edge Differential Privacy
+  authors:
+  - Siddharth Vishwanath
+  - Jonathan Hehir
+  date: 2021-02-12
+  journal: Theory and Practice of Differential Privacy Workshop, ICML
+  status: published
+  info:
+  - name: Poster
+    url: files/tpdp-2021-poster.pdf
+  - name: Workshop Paper
+    url: files/tpdp-2021-paper.pdf
+
+- title: Robust Persistence Diagrams using Reproducing Kernels
+  authors:
+  - Siddharth Vishwanath
+  - Kenji Fukumizu
+  - Satoshi Kuriki
+  - and Bharath Sriperumbudur
+  date: 2021-02-12
+  journal: Advances in Neural Information Processing Systems. NeurIPS
+  status: published
+  info:
+  - name: Link
+    url: https://proceedings.neurips.cc/paper/2020/hash/f99499791ad90c9c0ba9852622d0d15f-Abstract.html
+  - name: Slides
+    url: https://sidvishwanath.com/slides/neurips-2020/#1
+  - name: Code
+    url: https://github.com/sidv23/robust-PDs
+  - name: Poster
+    url: https://github.com/sidv23/posters/blob/main/robust-pd.pdf
+
+- title: Bayesian Inference and Optimal Censoring Scheme under Progressive Censoring
+  authors:
+  - Siddharth Vishwanath
+  - Debasis Kundu
+  date: 2017-02-12
+  journal: Advances in Reliability and System Engineering. Springer
+  status: published
+  info:
+  - name: Link
+    url: https://ndl.ethernet.edu.et/bitstream/123456789/1121/1/Advances%20in%20Reliability%20and%20System%20Engineering.pdf#page=243
+

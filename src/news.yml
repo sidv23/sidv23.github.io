@@ -1,0 +1,14 @@
+- title: First Item
+  authors: [Jane Doe, Siddharth Vishwanath]
+  year: 2022
+  categories: [tda, privacy]
+
+- title: Second Item
+  authors: [XYZ, Siddharth Vishwanath, Jane Doe]
+  date: 2021-01-02
+  categories: [tda, sampling]
+
+- title: Third Item
+  authors: [Siddharth Vishwanath, Jane Doe]
+  date: 2020-01-02
+  categories: [tda, sampling]

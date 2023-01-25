@@ -3,7 +3,16 @@
     "blog.qmd": [
       "posts"
     ],
+    "research.qmd": [
+      "src/publications.yml"
+    ],
     "talks.qmd": [
+      "talks"
+    ],
+    "teaching.qmd": [
+      "src/teaching.yml"
+    ],
+    "test.qmd": [
       "talks"
     ]
   }

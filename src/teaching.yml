@@ -1,0 +1,63 @@
+- course: Stat 380 
+  name: Data Science through Statistical reasoning
+  year: 2023
+  cycle: Spring
+  url: https://psu-stat380.github.io
+  role: Instructor
+
+- course: Math/Stat 319
+  name: Fundamentals of Mathematical Statistics 
+  year: 2022
+  cycle: Fall
+  url: https://sidvishwanath.com/stat319
+  role: Instructor
+
+- course: Stat 597
+  name: Nonparametrics and Statistical Learning Theory
+  year: 2021
+  cycle: Fall
+  role: Teaching Assistant
+
+- course: Stat 504
+  name: Multivariate Analysis 
+  year: 2019
+  cycle: Summer
+  url: 
+  role: Teaching Assistant
+
+- course: Stat 250
+  name:  Introduction to Biostatistic
+  year: 2019
+  cycle: Spring
+  url: 
+  role: Teaching Assistant
+
+- course: Stat 511
+  name:  Graduate Course on Regression Analysis
+  year: 2018
+  cycle: Fall
+  url: 
+  role: Teaching Assistant
+
+- course: Math/Stat 415
+  name: Introduction to Mathematical Statistics
+  year: 2018
+  cycle: Spring
+  url: 
+  role: Instructor
+
+- course: Math/Stat 415
+  name: Introduction to Mathematical Statistics 
+  year: 2017  
+  cycle: Fall
+  url: 
+  role: Teaching Assistant
+
+
+
+
+# - course: 
+#   name:  
+#   year: 
+#   cycle: 
+#   url: 

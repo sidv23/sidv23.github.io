@@ -1,0 +1,30 @@
+<% for (item of items) { %>
+
+::: {<%= item['status']==='unpublished' ? '.callout-warning' : '.callout-note' %> icon=false collapse=false}
+## <%= item.title %>
+
+<% for (let j = 0; j < item.authors.length; j++) { %>
+<% if (item.authors[j] === 'Siddharth Vishwanath') { %>
+[<%= item.authors[j] %>]{style="color: dodgerblue;"}
+<% } else { %>
+<%= item.authors[j] %>
+<% } %>
+<% if (j !== item.authors.length - 1) { %>, <% } %>
+<% } %>
+
+<br>
+
+[<%= item.journal %>. (<%= item.date %>)]{style="text-align: left;"}
+
+<br>
+
+[<% if ((item.info || []).length > 0) { %>
+<% for (let j=0; j < item.info.length; j++) { %>
+[[<%= item.info[j].name %>](<%= item.info[j].url %>)]
+<% if (j !== item.info.length - 1) { %>, <% } %>
+<% } %>
+<% } %>]{style="align: right;"}
+
+:::
+
+<% } %>

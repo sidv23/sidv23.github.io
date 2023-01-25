@@ -39,7 +39,7 @@ website:
       text: Teaching
     - href: talks.qmd
       text: Talks
-    - href: cv.qmd
+    - href: src/cv.qmd
       text: CV
     - href: 404.qmd
       text: $\zeta(-1)$
@@ -48,10 +48,14 @@ format:
     theme: 
       light: cosmo
       # dark: slate
-    css: ["themes/theme.scss", "themes/custom.css", "themes/styles.css", "themes/colors.css"]
+    css: 
+      - theme/css/theme.scss
+      - theme/css/custom.css
+      - theme/css/styles.css
+      - theme/css/colors.css
     toc: true
     html-math-method: katex
     include-in-header:
-      file: header.html
+      file: theme/html/header.html
     include-after-body: 
-      file: footer.html
+      file: theme/html/footer.html

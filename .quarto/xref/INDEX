@@ -79,5 +79,14 @@
   },
   "404.qmd": {
     "404.html": "2f3ca85f"
+  },
+  "test.qmd": {
+    "test.html": "bd544f0c"
+  },
+  "src/cv.qmd": {
+    "cv.html": "671aa2e9"
+  },
+  "bak/teaching.qmd": {
+    "teaching.html": "898c8a6f"
   }
 }

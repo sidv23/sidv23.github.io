@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "bak/teaching.html",
+    "href": "bak/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2023: Stat 380, Data Science through statistical reasoning (course website)\nFall 2022: Stat 319, Fundamentals of Mathematical Statistics (course website)"
+  },
+  {
+    "objectID": "bak/teaching.html#teaching-assistant",
+    "href": "bak/teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nFall 2021: Stat 597, Nonparametrics and Statistical Learning Theory (course website)\nSummer 2019: Stat 504, Multivariate Analysis\nSpring 2019: Stat 250, Introduction to Biostatistics\nFall 2018: Stat 511, Graduate Course on Regression Analysis\nFall 2017: Stat 415, Introduction to Mathematical Statistics"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Posts",
@@ -7,18 +21,18 @@
     "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "My CV is also available as a PDF. (Updated Dec 2022)\n\n\nEducation\n   Ph.D., Statistics, 2017-Present Penn State University\n   M.Sc. (Integrated), Mathematics, 2010—2015  Indian Institute of Technology, Kanpur\n\n\n\nAcademic Milestones\n   Research Assistant, Statistical Consulting Center @ Penn State, 2019-2020\n   Student Travel Award, Geometric Data Analysis, University of Chicago, 2019\n   Proficiency Medal, Indian Institute of Technology - Kanpur, 2015\n   Academic Excellence Award, Indian Institute of Technology - Kanpur, 2015\n   KVPY Fellowship, 2010-2015\n\n\n\nAcademic experience\n   Graduate Research Assistant, Penn State University, July 2020  Hamiltonian Monte Carlo for Multimodal Sampling. Supervised by Hyungsuk Tak\n   Graduate Research Assistant, Penn State University, June 2020  Robust persistence diagrams using reproducing kernels. Supervised by Bharath Sriperumbudur\n   Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2019  Robust persistence diagrams. Hosted by Satoshi Kuriki & Kenji Fukumizu\n   Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2018  Statistical inference from Betti numbers. Hosted by Satoshi Kuriki & Kenji Fukumizu\n\n\n\nProfessional Experience\n   Research Intern, IBM Research (2022)\n   Market Risk Strat, Goldman Sachs (2016-2017)\n   Model Validation Quant, Nomura (2015-2016)\n\n\n\nSkills\n Programming   Julia, R, Python, C/C++, MATLAB, SQL\n Languages   English, Kannada, Hindi, French\n\n\n\nLeadership and Service\n   Finance Convener, Students’ Senate, Indian Institute of Technology Kanpur\n   Undergraduate Senator, Indian Institute of Technology Kanpur"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Siddharth Vishwanath",
+    "section": "Education",
+    "text": "Education\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
     "title": "Siddharth Vishwanath",
-    "section": "",
-    "text": "Siddharth Vishwanath\n\n\n\n\n\n\n\n \n\n\n\n\n               \n\n\n\n\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur\n\n\n\n\n\nI am a Ph.D. student in the Department of Statistics at Penn State University, advised by Dr. Bharath Sriperumbudur. I am also a research assistant with the Statistical Consulting Center at Penn State.\nPrior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the Indian Institute of Technology, Kanpur with an M.Sc.(Integrated) in Mathematics and Statistics under the supervision of Dr. Debasis Kundu.\nMy research interests are broadly in the areas of:\n\nTopological Data Analysis: Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference\nStatistical Learning Theory: Reproducing kernel Hilbert spaces in probability and statistics, differential privacy\nProbabilistic Methods: Hamiltonian Monte Carlo, generative models"
+    "section": "Interests",
+    "text": "Interests\n\nTopological data Analysis\nStatistical learning theory\nRobust statistics\nGenerative models\n\nYou can find out more about my work here."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -39,7 +53,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling\n\n\n\n\n\nSiddharth Vishwanath & Hyungsuk Tak In Preparation. (2022)\n\n\n\n\n\n\n\n\n\n\nTopological Inference for Random Dot-Product Graphs under Local Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath & Jonathan Hehir In Preparation. (2022)\n\n\n\n\n\n\n\n\n\n\nEfficient and Outlier Robust Topological Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Submitted. (2022)\n[arXiv], [code]\n\n\n\n\n\n\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Submitted. (2022)\n[arXiv], [Slides], [Talk]\n\n\n\n\n\n\n\n\n\n\nThe Shape of Edge Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath & Jonathan Hehir Theory and Practice of Differential Privacy Workshop. ICML. (2021)\n[Poster], [Workshop Paper]\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu & Satoshi Kuriki Advances in Neural Information Processing Systems. NeurIPS. (2020)\n[Link], [Slides], [Code], [Poster]\n\n\n\n\n\n\n\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\n\n\n\nSiddharth Vishwanath & Debasis Kundu Advances in Reliability and System Engineering. Springer. (2017)\n[Link]"
+    "text": "My research interests are broadly in the areas of:\n\nTopological Data Analysis: Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference\nStatistical Learning Theory: Reproducing kernel Hilbert spaces in probability and statistics, differential privacy\nProbabilistic Methods: Hamiltonian Monte Carlo, generative models\n\n\n\n\n\n\n\n\n\n\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling\n\n\n\n\n\nSiddharth Vishwanath , Hyungsuk Tak  In Preparation. (2022)  \n\n\n\n\n\n\n\n\n\nTopological Inference for Random Dot-Product Graphs under Local Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath , Jonathan Hehir  In Preparation. (2022)  \n\n\n\n\n\n\n\n\n\nEfficient and Outlier Robust Topological Inference\n\n\n\n\n\nSiddharth Vishwanath , Bharath Sriperumbudur , Kenji Fukumizu , and Satoshi Kuriki  Under Review. (2022)  [arXiv] , [code]\n\n\n\n\n\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\n\n\n\nSiddharth Vishwanath , Kenji Fukumizu , Satoshi Kuriki , and Bharath Sriperumbudur  Under Review.. (2022)  [arXiv] , [Slides] , [Talk]\n\n\n\n\n\n\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\n\n\n\nRobert J. Meinen , Douglas B. Beegle , Siddharth Vishwanath , Peter J. A. Kleinman , Louis S. Saporito , John Spargo , Heather Karsten , Justin Dillon  Soil Science Society of America Journal. Springer. (2022)  [Link]\n\n\n\n\n\n\n\n\n\nThe Shape of Edge Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath , Jonathan Hehir  Theory and Practice of Differential Privacy Workshop, ICML. (2021)  [Poster] , [Workshop Paper]\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\nSiddharth Vishwanath , Kenji Fukumizu , Satoshi Kuriki , and Bharath Sriperumbudur  Advances in Neural Information Processing Systems. NeurIPS. (2021)  [Link] , [Slides] , [Code] , [Poster]\n\n\n\n\n\n\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\n\n\n\nSiddharth Vishwanath , Debasis Kundu  Advances in Reliability and System Engineering. Springer. (2017)  [Link]\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "src/cv.html",
+    "href": "src/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV is available as a PDF here. (Updated Dec 2022)"
+  },
+  {
+    "objectID": "src/cv.html#education",
+    "href": "src/cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur"
+  },
+  {
+    "objectID": "src/cv.html#professional-experience",
+    "href": "src/cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n   Research Intern, IBM Research, 2022\n   Consultant, Penn State University, 2022\n   Visiting Student Researcher, Institute of Mathematical Statistics, 2019 & 2018\n   Market Risk Strat, Goldman Sachs, 2016—2017\n   Model Validation Quant, Nomura, 2015—2016"
+  },
+  {
+    "objectID": "src/cv.html#awards",
+    "href": "src/cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n   Student Travel Award  Geometric Data Analysis, University of Chicago, 2019\n   Proficiency Medal  Indian Institute of Technology - Kanpur, 2015\n   Academic Excellence Award  Indian Institute of Technology - Kanpur, 2015\n   KVPY Fellowship  Department of Science & Technology  Govt of India 2010—2015"
   },
   {
     "objectID": "talks.html",
@@ -116,13 +158,27 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2023: Stat 380, Data Science through statistical reasoning (course website)\nFall 2022: Stat 319, Fundamentals of Mathematical Statistics (course website)"
+    "text": "My interest in research has been cultivated and nurtured by inspirational teachers, and my own teaching philosophy has been molded, and has evolved, to reflect these experiences. As an educator, my aim is to provide students with the ability to understand the theoretical underpinnings in statistical reasoning and to apply these methods using computing, quantitative analyses, and data science.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nStat 380\n\n\n    \n    Data Science through Statistical reasoning\n    (\n        Link \n    )\n    \n\n\n    Spring 2023\n\n\n    \n        Instructor\n        \n\n\n\n\n\n\nMath/Stat 319\n\n\n    \n    Fundamentals of Mathematical Statistics\n    (\n        Link \n    )\n    \n\n\n    Fall 2022\n\n\n    \n        Instructor\n        \n\n\n\n\n\n\nStat 597\n\n\n    \n    Nonparametrics and Statistical Learning Theory\n    \n\n\n    Fall 2021\n\n\n    \n        Teaching Assistant\n        \n\n\n\n\n\n\nStat 504\n\n\n    \n    Multivariate Analysis\n    \n\n\n    Summer 2019\n\n\n    \n        Teaching Assistant\n        \n\n\n\n\n\n\nStat 250\n\n\n    \n    Introduction to Biostatistic\n    \n\n\n    Spring 2019\n\n\n    \n        Teaching Assistant\n        \n\n\n\n\n\n\nStat 511\n\n\n    \n    Graduate Course on Regression Analysis\n    \n\n\n    Fall 2018\n\n\n    \n        Teaching Assistant\n        \n\n\n\n\n\n\nMath/Stat 415\n\n\n    \n    Introduction to Mathematical Statistics\n    \n\n\n    Spring 2018\n\n\n    \n        Instructor\n        \n\n\n\n\n\n\nMath/Stat 415\n\n\n    \n    Introduction to Mathematical Statistics\n    \n\n\n    Fall 2017\n\n\n    \n        Teaching Assistant\n        \n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nFall 2021: Stat 597, Nonparametrics and Statistical Learning Theory (course website)\nSummer 2019: Stat 504, Multivariate Analysis\nSpring 2019: Stat 250, Introduction to Biostatistics\nFall 2018: Stat 511, Graduate Course on Regression Analysis\nFall 2017: Stat 415, Introduction to Mathematical Statistics"
+    "objectID": "test.html#education",
+    "href": "test.html#education",
+    "title": "Siddharth Vishwanath",
+    "section": "Education",
+    "text": "Education\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur"
+  },
+  {
+    "objectID": "test.html#interests",
+    "href": "test.html#interests",
+    "title": "Siddharth Vishwanath",
+    "section": "Interests",
+    "text": "Interests\n\nTopological data Analysis\nStatistical learning theory\nRobust statistics\nGenerative models\n\nYou can find out more about my work here."
+  },
+  {
+    "objectID": "test.html#latest-news",
+    "href": "test.html#latest-news",
+    "title": "Siddharth Vishwanath",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n    \n        \n        \n            Jan 18, 2023        \n        \n        \n            Topological Inference for gRDPGs     \n        \n        \n\n        \n        \n            Oct 21, 2022        \n        \n        \n            Hamiltonian Repelling Attracting Metropolis Algorithm     \n        \n        \n\n        \n        \n            Aug 1, 2021        \n        \n        \n            Robust Persistence Diagrams     \n        \n        \n\n\n\n\nNo matching items\n\n\n  \n\n\n All Posts"
   }
 ]

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Siddharth Vishwanath - CV</title>
+<title>Siddharth Vishwanath -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./icons/icon-48x48.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,6 +62,36 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-freeze","listing-title-block-banner","listing-title","listing-author","listing-date","listing-categories","listing-path","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-news'] = new List('listing-latest-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 
 <script type="text/javascript">
 
@@ -97,19 +129,19 @@ ga('send', {
   </script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
-<link rel="stylesheet" href="themes/theme.scss">
-<link rel="stylesheet" href="themes/custom.css">
-<link rel="stylesheet" href="themes/styles.css">
-<link rel="stylesheet" href="themes/colors.css">
-<meta property="og:title" content="Siddharth Vishwanath - CV">
-<meta property="og:description" content="My CV is also available as a PDF. (Updated Dec 2022)">
+<link rel="stylesheet" href="theme/css/theme.scss">
+<link rel="stylesheet" href="theme/css/custom.css">
+<link rel="stylesheet" href="theme/css/styles.css">
+<link rel="stylesheet" href="theme/css/colors.css">
+<meta property="og:title" content="Siddharth Vishwanath -">
+<meta property="og:description" content="All Posts">
 <meta property="og:site-name" content="Siddharth Vishwanath">
-<meta name="twitter:title" content="Siddharth Vishwanath - CV">
-<meta name="twitter:description" content="My CV is also available as a PDF. (Updated Dec 2022)">
+<meta name="twitter:title" content="Siddharth Vishwanath -">
+<meta name="twitter:description" content="All Posts">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -142,7 +174,7 @@ ga('send', {
  <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page">
+    <a class="nav-link" href="./src/cv.html">
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -159,74 +191,104 @@ ga('send', {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">CV</h1>
+
+
+<!-- color: rgb(132, 45, 245); -->
+<section id="siddharth-vishwanath" class="level2" style="text-align: right;">
+<h2 class="anchored" data-anchor-id="siddharth-vishwanath"><span style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100;"><span style="font-weight: 450;"><strong>Siddharth</strong></span> Vishwanath</span></h2>
+</section>
+<div class="grid">
+<div class="g-col-12 g-col-md-5" style="text-align: left;">
+<div class="juxtapose" data-startingposition="47%" style="height: '330px'; width: 330px;">
+<p><img src="images/profile5.jpg" data-label="" alt=""> <img src="images/profile5-2.jpg" data-label="" alt=""></p>
 </div>
+</div>
+<div class="g-col-12 g-col-md-1" style="text-align: left;">
 
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>My <a href="./files/cv.pdf">CV</a> is also available as a PDF. (Updated Dec 2022)</p>
-<hr>
-<section id="education" class="level4">
-<h4 class="anchored" data-anchor-id="education">Education</h4>
-<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> &nbsp; Ph.D., Statistics, 2017-Present<br> <span class="dodgerblue"><em>Penn State University</em></span></p>
-<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> &nbsp; M.Sc. (Integrated), Mathematics, 2010—2015 <br> <span class="dodgerblue"><em>Indian Institute of Technology, Kanpur</em></span></p>
-<hr>
+</div>
+<!-- text-align: justify; text-justify: inter-word; -->
+<div class="g-col-12 g-col-md-6" style="text-align: justify;">
+<p>I am a Ph.D.&nbsp;student in the <a href="http://stat.psu.edu/">Department of Statistics</a> at <a href="https://www.psu.edu/">Penn State University</a>, advised by <a href="http://personal.psu.edu/bks18/">Dr.&nbsp;Bharath Sriperumbudur</a>. I am also a research assistant with the <a href="https://scc.stat.psu.edu/">Statistical Consulting Center</a> at Penn State.</p>
+<p>Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the <a href="https://www.iitk.ac.in/">Indian Institute of Technology, Kanpur</a> with an M.Sc.(Integrated) in Mathematics and Statistics.</p>
+</div>
+</div>
+<div class="grid">
+<section id="education" class="level2 g-col-12 g-col-md-7" style="text-align: left;">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> &nbsp; Ph.D.&nbsp;Candidate, Statistics<br> <span class="dodgerblue"><em>Penn State University</em></span></p>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> &nbsp; M.Sc. (Integrated), Mathematics <br> <span class="dodgerblue"><em>Indian Institute of Technology, Kanpur</em></span></p>
 </section>
-<section id="academic-milestones" class="level4">
-<h4 class="anchored" data-anchor-id="academic-milestones">Academic Milestones</h4>
-<p><i class="fa-solid fa-star" aria-label="star"></i> &nbsp; Research Assistant, Statistical Consulting Center @ Penn State, 2019-2020</p>
-<p><i class="fa-solid fa-star" aria-label="star"></i> &nbsp; Student Travel Award, Geometric Data Analysis, University of Chicago, 2019</p>
-<p><i class="fa-solid fa-star" aria-label="star"></i> &nbsp; Proficiency Medal, Indian Institute of Technology - Kanpur, 2015</p>
-<p><i class="fa-solid fa-star" aria-label="star"></i> &nbsp; Academic Excellence Award, Indian Institute of Technology - Kanpur, 2015</p>
-<p><i class="fa-solid fa-star" aria-label="star"></i> &nbsp; KVPY Fellowship, 2010-2015</p>
-<hr>
+<section id="interests" class="level2 g-col-12 g-col-md-5" style="text-align: left;">
+<h2 class="anchored" data-anchor-id="interests">Interests</h2>
+<ul>
+<li>Topological data Analysis</li>
+<li>Statistical learning theory</li>
+<li>Robust statistics</li>
+<li>Generative models</li>
+</ul>
+<p>You can find out more about my work <a href="./research.html">here</a>.</p>
 </section>
-<section id="academic-experience" class="level4">
-<h4 class="anchored" data-anchor-id="academic-experience">Academic experience</h4>
-<p><i class="fa-solid fa-feather" aria-label="feather"></i> &nbsp; Graduate Research Assistant, Penn State University, July 2020 <br> <span class="small"><em>Hamiltonian Monte Carlo for Multimodal Sampling.</em> Supervised by Hyungsuk Tak</span></p>
-<p><i class="fa-solid fa-feather" aria-label="feather"></i> &nbsp; Graduate Research Assistant, Penn State University, June 2020 <br> <span class="small"><em>Robust persistence diagrams using reproducing kernels.</em> Supervised by Bharath Sriperumbudur</span></p>
-<p><i class="fa-solid fa-feather" aria-label="feather"></i> &nbsp; Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2019 <br> <span class="small"><em>Robust persistence diagrams.</em> Hosted by Satoshi Kuriki &amp; Kenji Fukumizu</span></p>
-<p><i class="fa-solid fa-feather" aria-label="feather"></i> &nbsp; Visiting researcher, Institute of Statistical Mathematics - Tokyo, 2018 <br> <span class="small"><em>Statistical inference from Betti numbers.</em> Hosted by Satoshi Kuriki &amp; Kenji Fukumizu</span></p>
-<hr>
+</div>
+<section id="latest-news" class="level2 column-body-outset">
+<h2 class="anchored" data-anchor-id="latest-news">Latest News</h2>
+<div id="listing-latest-news" class="quarto-listing quarto-listing-container-custom">
+
+<table class="quarto-listing-table table">
+    <tbody class="list">
+        <tr data-index="0" data-categories="null" data-listing-date-sort="1674018000000" data-listing-file-modified-sort="1674555886808" data-listing-reading-time-sort="0.06">
+        <td class="listing-date">
+            Jan 18, 2023        
+        </td>
+        <td class="listing-title">
+            <a href="./talks/jan-2023/index.html">Topological Inference for gRDPGs</a>     
+        </td>
+        <!-- <td>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">tda</span>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">differential privacy</span>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">random graphs</span>
+        </td>         -->
+</tr>
+        <tr data-index="0" data-categories="null" data-listing-date-sort="1666324800000" data-listing-file-modified-sort="1674555856881" data-listing-reading-time-sort="0.065">
+        <td class="listing-date">
+            Oct 21, 2022        
+        </td>
+        <td class="listing-title">
+            <a href="./talks/CAst-2022/index.html">Hamiltonian Repelling Attracting Metropolis Algorithm</a>     
+        </td>
+        <!-- <td>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">hmc</span>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">haram</span>
+        </td>         -->
+</tr>
+        <tr data-index="0" data-categories="null" data-listing-date-sort="1627790400000" data-listing-file-modified-sort="1674556033321" data-listing-reading-time-sort="0.065">
+        <td class="listing-date">
+            Aug 1, 2021        
+        </td>
+        <td class="listing-title">
+            <a href="./talks/jsm-2021/index.html">Robust Persistence Diagrams</a>     
+        </td>
+        <!-- <td>
+                <span class="badge badge-primary" style="background:rgb(242, 233, 249); color: rgb(84, 31, 84);">tda</span>
+        </td>         -->
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="latest-news-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+<p> <em><a href="./blog.html">All Posts</a></em></p>
 </section>
-<section id="professional-experience" class="level4">
-<h4 class="anchored" data-anchor-id="professional-experience">Professional Experience</h4>
-<p><i class="fa-solid fa-briefcase" aria-label="briefcase"></i> &nbsp; Research Intern, <strong>IBM Research</strong> (2022)</p>
-<p><i class="fa-solid fa-briefcase" aria-label="briefcase"></i> &nbsp; Market Risk Strat, <strong>Goldman Sachs</strong> (2016-2017)</p>
-<p><i class="fa-solid fa-briefcase" aria-label="briefcase"></i> &nbsp; Model Validation Quant, <strong>Nomura</strong> (2015-2016)</p>
-<hr>
-</section>
-<section id="skills" class="level4">
-<h4 class="anchored" data-anchor-id="skills">Skills</h4>
-<p><i class="fa-solid fa-terminal" aria-label="terminal"></i> Programming &nbsp; <code>Julia, R, Python, C/C++, MATLAB, SQL</code></p>
-<p><i class="fa-solid fa-earth-americas" aria-label="earth-americas"></i> Languages &nbsp; <code>English, Kannada, Hindi, French</code></p>
-<hr>
-</section>
-<section id="leadership-and-service" class="level4">
-<h4 class="anchored" data-anchor-id="leadership-and-service">Leadership and Service</h4>
-<p><i class="fa-solid fa-hand-holding-heart" aria-label="hand-holding-heart"></i> &nbsp; <strong>Finance Convener</strong>, Students’ Senate, Indian Institute of Technology Kanpur</p>
-<p><i class="fa-solid fa-hand-holding-heart" aria-label="hand-holding-heart"></i> &nbsp; <strong>Undergraduate Senator</strong>, Indian Institute of Technology Kanpur</p>
 
 
-</section>
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

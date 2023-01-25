@@ -1,0 +1,87 @@
+---
+title: ""
+sidebar: false
+toc: false
+layout: full
+listing:
+  - id: latest-news
+    contents: talks
+    sort: "date desc"
+    page-size: 3
+    max-items: 3
+    template: theme/ejs/homepage-news.ejs
+    type: custom
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title]
+    feed: false
+---
+
+<!-- color: rgb(132, 45, 245); -->
+
+::: {style="text-align: right;"}
+## [[**Siddharth**]{style="font-weight: 450;"} Vishwanath]{style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100;"}
+:::
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+
+<div class="juxtapose" data-startingposition="47%" style="height: '330px'; width: 330px;">
+<img src="images/profile5.jpg" data-label="" alt="">
+<img src="images/profile5-2.jpg" data-label="" alt="">
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-1 style="text-align: left;"}
+:::
+
+<!-- text-align: justify; text-justify: inter-word; -->
+::: {.g-col-12 .g-col-md-6 style="text-align: justify;"}
+
+I am a Ph.D. student in the [Department of Statistics](http://stat.psu.edu/) at [Penn State University](https://www.psu.edu/), advised by [Dr. Bharath Sriperumbudur](http://personal.psu.edu/bks18/). I am also a research assistant with the [Statistical Consulting Center](https://scc.stat.psu.edu/) at Penn State.
+
+Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) with an M.Sc.(Integrated) in Mathematics and Statistics.
+
+:::
+
+::::
+
+
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-7 style="text-align: left;"}
+## Education
+
+{{< fa graduation-cap >}} &nbsp; Ph.D. Candidate, Statistics<br> [_Penn State University_]{.dodgerblue}
+
+{{< fa graduation-cap >}} &nbsp; M.Sc. (Integrated), Mathematics <br> [_Indian Institute of Technology, Kanpur_]{.dodgerblue}
+
+:::
+
+::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+## Interests
+
+* Topological data Analysis
+* Statistical learning theory
+* Robust statistics
+* Generative models
+
+You can find out more about my work [here](research.qmd).
+
+:::
+
+::::
+
+:::{.column-body-outset}
+
+## Latest News
+
+::: {#latest-news}
+:::
+
+{{< bi arrow-bar-right color="#047a06" >}} *[All Posts](blog.qmd)*
+:::

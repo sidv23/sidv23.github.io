@@ -1,10 +1,21 @@
 ---
-title: "Teaching"
+title: Teaching
 permalink: /teaching/
 redirect_from:
   - /teaching
+listing:
+  sort-ui: false
+  categories: false
+  filter-ui: true
+  date-format: YYYY
+  template: theme/ejs/teaching.ejs
+  contents:
+    - src/teaching.yml
 ---
 
+My interest in research has been cultivated and nurtured by inspirational teachers, and my own teaching philosophy has been molded, and has evolved, to reflect these experiences. As an educator, my aim is to provide students with the ability to understand the theoretical underpinnings in statistical reasoning and to apply these methods using computing, quantitative analyses, and data science. 
+
+<!-- 
 
 ## Instructor
 
@@ -23,4 +34,4 @@ redirect_from:
 
 1. **Fall 2018**: Stat 511, Graduate Course on Regression Analysis
 
-1. **Fall 2017**: Stat 415, Introduction to Mathematical Statistics
+1. **Fall 2017**: Stat 415, Introduction to Mathematical Statistics -->
