@@ -21,16 +21,18 @@ layout: full
 <!-- color: rgb(132, 45, 245); -->
 
 ::: {style="text-align: right;"}
-## [[**Siddharth**]{style="font-weight: 450;"} Vishwanath]{style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100;"}
+## [[**Siddharth**]{style="font-weight: 500;"} Vishwanath]{style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100; font-family: 'Saira Semi Condensed', sans-serif;"}
 :::
+
+
 
 :::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
 
-<div class="juxtapose" data-startingposition="47%" style="height: '330px'; width: 330px;">
-<img src="images/profile5.jpg" data-label="" alt="">
+<div class="juxtapose" data-startingposition="45%" style="height: '330px'; width: 330px;">
 <img src="images/profile5-2.jpg" data-label="" alt="">
+<img src="images/profile5.jpg" data-label="" alt="">
 </div>
 
 :::
@@ -65,7 +67,7 @@ Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sa
 ::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
 ## Interests
 
-* Topological data Analysis
+* Topological data analysis
 * Statistical learning theory
 * Robust statistics
 * Generative models
