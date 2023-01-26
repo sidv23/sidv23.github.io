@@ -7,10 +7,11 @@ listing:
   grid-item-border: true
   grid-item-align: left
   max-description-length: 175
-  date-format: medium
+  date-format: MMM YYYY
   categories: false
   sort-ui: true
   filter-ui: true
+  fields: [title, subtitle, date]
 page-layout: full
 title-block-banner: true
 ---

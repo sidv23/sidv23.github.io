@@ -1,11 +1,11 @@
 ---
-title: "Statistical Inference for TDA"
-author: "Siddharth Vishwanath"
-date: "2020-09-14"
+title: Statistical Inference for TDA
+subtitle: Stohastic Modelling and Computational Statistics Talk, 2020
+author: Siddharth Vishwanath
+date: 2020-09-14
 categories: [tda]
 ---
 
-**Stohastic Modelling and Computational Statistics Talk, 2020**
 
 
 The link to the slides is [here](https://sidv23.github.io/slides/jsm-202).

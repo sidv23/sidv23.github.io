@@ -1,11 +1,10 @@
 ---
-title: "Statistical Invariance of Betti Numbers"
-author: "Siddharth Vishwanath"
-date: "2020-07-21"
+title: Statistical Invariance of Betti Numbers
+subtitle: "Applied Topology: Methods, Compuation and Science, 2021"
+author: Siddharth Vishwanath
+date: 2020-07-21
 categories: [tda]
 ---
-
-**Applied Topology: Methods, Compuation and Science, 2021**
 
 The link to the slides is [here](https://sidv23.github.io/slides/jsm-202). You can also wacth the talk on [YouTube here]()
 

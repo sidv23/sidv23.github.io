@@ -1,11 +1,11 @@
 ---
-title: "Robust Persistence Diagrams"
-author: "Siddharth Vishwanath"
-date: "2021-08-01"
+title: Robust Persistence Diagrams
+subtitle: Joint Statistical Meetings, 2021
+author: Siddharth Vishwanath
+date: 2021-08-01
 categories: [tda]
 ---
 
-**Joint Statistical Meetings, 2021**
 
 
 The link to the slides is [here](https://sidvishwanath.com/slides/jsm-2020/).

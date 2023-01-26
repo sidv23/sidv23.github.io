@@ -1,12 +1,10 @@
 ---
-title: "Hamiltonian Repelling Attracting Metropolis Algorithm"
-author: "Siddharth Vishwanath"
-date: "2022-10-21"
+title: Hamiltonian Repelling Attracting Metropolis Algorithm
+subtitle: Center for Astrostatistics, 2022
+author: Siddharth Vishwanath
+date: 2022-10-21
 categories: [hmc, haram]
 ---
-
-**Center for Astrostatistics, 2022**
-
 
 The link to the slides is [here](https://sidvishwanath.com/oct21).
 

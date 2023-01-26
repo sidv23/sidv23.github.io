@@ -1,7 +1,8 @@
 ---
-title: "Overview of Robust TDA"
-author: "Siddharth Vishwanath"
-date: "2020-10-01"
+title: Overview of Robust TDA
+subtitle: IBM Research
+author: Siddharth Vishwanath
+date: 2020-10-01
 categories: [tda]
 ---
 

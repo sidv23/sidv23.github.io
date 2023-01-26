@@ -88,56 +88,56 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nTopological Inference for gRDPGs\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nJan 18, 2023\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nAug 1, 2021\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nDec 8, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nDec 4, 2020\n\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nOct 1, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nSep 14, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nAug 3, 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\n\n\n\n\nSiddharth Vishwanath\n\n\nJul 21, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nTopological Inference for gRDPGs under differential privacy\n\n\nUniversity of Michigan\n\n\n\nJan 2023\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\nCenter for Astrostatistics, 2022\n\n\n\nOct 2022\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\nJoint Statistical Meetings, 2021\n\n\n\nAug 2021\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nNeurIPS 2020\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\nSlides for My Comprehensive Exam\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\nIBM Research\n\n\n\nOct 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\nStohastic Modelling and Computational Statistics Talk, 2020\n\n\n\nSep 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nJoint Statistical Meetings, 2020\n\n\n\nAug 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nApplied Topology: Methods, Compuation and Science, 2021\n\n\n\nJul 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/CAst-2022/index.html",
     "href": "talks/CAst-2022/index.html",
     "title": "Hamiltonian Repelling Attracting Metropolis Algorithm",
     "section": "",
-    "text": "Center for Astrostatistics, 2022\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/atmcs-2020/index.html",
     "href": "talks/atmcs-2020/index.html",
     "title": "Statistical Invariance of Betti Numbers",
     "section": "",
-    "text": "Applied Topology: Methods, Compuation and Science, 2021\nThe link to the slides is here. You can also wacth the talk on YouTube here"
+    "text": "The link to the slides is here. You can also wacth the talk on YouTube here"
   },
   {
     "objectID": "talks/comps-2020/index.html",
     "href": "talks/comps-2020/index.html",
     "title": "Statistical Learning for Robust Topological Inference",
     "section": "",
-    "text": "Slides for My Comprehensive Exam\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/jan-2023/index.html",
     "href": "talks/jan-2023/index.html",
-    "title": "Topological Inference for gRDPGs",
+    "title": "Topological Inference for gRDPGs under differential privacy",
     "section": "",
-    "text": "Under Differential Privacy\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/jsm-2020/index.html",
     "href": "talks/jsm-2020/index.html",
     "title": "Statistical Invariance of Betti Numbers",
     "section": "",
-    "text": "Joint Statistical Meetings, 2020\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/jsm-2021/index.html",
     "href": "talks/jsm-2021/index.html",
     "title": "Robust Persistence Diagrams",
     "section": "",
-    "text": "Joint Statistical Meetings, 2021\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/neurips-2020/index.html",
     "href": "talks/neurips-2020/index.html",
     "title": "Robust Persistence Diagrams using Reproducing Kernels",
     "section": "",
-    "text": "NeurIPS 2020\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "talks/oct-2021/index.html",
@@ -151,7 +151,7 @@
     "href": "talks/smac-2020/index.html",
     "title": "Statistical Inference for TDA",
     "section": "",
-    "text": "Stohastic Modelling and Computational Statistics Talk, 2020\nThe link to the slides is here."
+    "text": "The link to the slides is here."
   },
   {
     "objectID": "teaching.html",
@@ -179,6 +179,6 @@
     "href": "test.html#latest-news",
     "title": "Siddharth Vishwanath",
     "section": "Latest News",
-    "text": "Latest News\n\n\n\n    \n        \n        \n            Jan 18, 2023        \n        \n        \n            Topological Inference for gRDPGs     \n        \n        \n\n        \n        \n            Oct 21, 2022        \n        \n        \n            Hamiltonian Repelling Attracting Metropolis Algorithm     \n        \n        \n\n        \n        \n            Aug 1, 2021        \n        \n        \n            Robust Persistence Diagrams     \n        \n        \n\n\n\n\nNo matching items\n\n\n  \n\n\n All Posts"
+    "text": "Latest News\n\n\n\n    \n        \n        \n            Jan 18, 2023        \n        \n        \n            Topological Inference for gRDPGs under differential privacy     \n        \n        \n\n        \n        \n            Oct 21, 2022        \n        \n        \n            Hamiltonian Repelling Attracting Metropolis Algorithm     \n        \n        \n\n        \n        \n            Aug 1, 2021        \n        \n        \n            Robust Persistence Diagrams     \n        \n        \n\n\n\n\nNo matching items\n\n\n  \n\n\n All Posts"
   }
 ]
