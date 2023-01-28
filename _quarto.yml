@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "*.md"
 
+execute:
+  freeze: auto
+  
 website:
   title: "Siddharth Vishwanath"
   favicon: icons/icon-48x48.png
