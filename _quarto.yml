@@ -49,10 +49,10 @@ format:
       light: cosmo
       # dark: slate
     css: 
-      - theme/css/theme.scss
+      - theme/css/colors.css
       - theme/css/custom.css
       - theme/css/styles.css
-      - theme/css/colors.css
+      # - theme/css/theme.scss
     toc: true
     html-math-method: katex
     include-in-header:

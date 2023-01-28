@@ -15,24 +15,10 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
 ::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
 ## Education
 
-{{< fa graduation-cap >}} &nbsp; Ph.D. Candidate, Statistics<br> [_Penn State University_]{.dodgerblue}
+{{< fa graduation-cap >}} &nbsp; [**Penn State University**]{} <br> _Ph.D. Candidate, Statistics_,   2017---Present
 
-{{< fa graduation-cap >}} &nbsp; M.Sc. (Integrated), Mathematics <br> [_Indian Institute of Technology, Kanpur_]{.dodgerblue}
+{{< fa graduation-cap >}} &nbsp; [**Indian Institute of Technology, Kanpur**]{} <br> _M.Sc. (Integrated), Mathematics_,   2015
 
-## Professional Experience
-
-{{< fa briefcase >}} &nbsp; Research Intern, **IBM Research**, 2022
-
-{{< fa briefcase >}} &nbsp; Consultant, **Penn State University**, 2022
-
-{{< fa briefcase >}} &nbsp; Visiting Student Researcher, **Institute of Statistical Mathematics**, 2019 & 2018
-
-{{< fa briefcase >}} &nbsp; Market Risk Strat, **Goldman Sachs**, 2016---2017
-
-{{< fa briefcase >}} &nbsp; Model Validation Quant, **Nomura**, 2015---2016
-:::
-
-::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
 
 ## Awards
 
@@ -42,7 +28,22 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
 
 {{< fa star >}} &nbsp; **Academic Excellence Award** <br> _Indian Institute of Technology - Kanpur_, 2015
 
-{{< fa star >}} &nbsp; **KVPY Fellowship** <br> _Department of Science & Technology_ <br> _Govt of India_ 2010---2015
+{{< fa star >}} &nbsp; **KVPY Fellowship** <br> _Department of Science & Technology_ <br> _Government of India_, 2010---2015
+:::
+
+::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
+
+## Professional Experience
+
+{{< fa briefcase >}} &nbsp; **IBM Research** <br> _Research Intern_,   2022
+
+{{< fa briefcase >}} &nbsp;  **Penn State University** <br> _Statistical Consultant_,   2019---2022
+
+{{< fa briefcase >}} &nbsp; **Institute of Statistical Mathematics** <br> _Visiting Student Researcher_,  2019 & 2018
+
+{{< fa briefcase >}} &nbsp; **Goldman Sachs** <br> _Senior Quantitative Analyst_,   2016---2017
+
+{{< fa briefcase >}} &nbsp; **Nomura** <br>  _Model Validation Quant_,   2015---2016
 
 :::
 
