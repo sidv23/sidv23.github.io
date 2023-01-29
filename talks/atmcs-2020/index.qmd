@@ -6,6 +6,6 @@ date: 2020-07-21
 categories: [tda]
 ---
 
-The link to the slides is [here](https://sidv23.github.io/slides/jsm-202). You can also wacth the talk on [YouTube here]()
+The link to the slides is [here](https://sidvishwanath.com/atmcs-2020/). You can also wacth the talk on [YouTube here](https://www.youtube.com/watch?v=9K2ynjC5R0c)
 
-<iframe src="https://sidv23.github.io/slides/jsm-2020" width="900" height="550"></iframe>
+<iframe src="https://sidvishwanath.com/atmcs-2020/" width="900" height="550"></iframe>
