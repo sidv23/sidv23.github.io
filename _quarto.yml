@@ -48,8 +48,8 @@ website:
       text: $\zeta(-1)$
 format:
   html:
-    theme: 
-      light: cosmo
+    theme: cosmo
+      # light: cosmo
       # dark: slate
     css: 
       - theme/css/colors.css
