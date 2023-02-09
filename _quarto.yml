@@ -6,7 +6,7 @@ project:
     - "*.md"
 
 execute:
-  freeze: auto
+  freeze: true
   
 website:
   title: "Siddharth Vishwanath"
