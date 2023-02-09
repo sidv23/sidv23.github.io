@@ -1,4 +1,21 @@
 /*-- css:defaults --*/
+.psu-blue{ color: #1e407c}
+.psublue{ color: #1e407c}
+.black { color: black; }
+.red { color: red; }
+.blue { color: blue; }
+.green { color: green; }
+.yellow { color: yellow; }
+.orange { color: orange; }
+.purple { color: purple; }
+.gray { color: gray; }
+.grey { color: gray; }
+.dblue { color: #1058ad; }
+.orchid { color: #db43d5; }
+.dorange { color: #ff5900; }
+.dodgerblue { color: #1e90ff; }
+.dpurple { color: rgb(122, 45, 245); }
+
 :root {
     --psublue: #1e407c;
     --psu-blue: #1e407c;
@@ -15,24 +32,12 @@
     --dblue: #1058ad;
     --orchid: #db43d5;
     --dorange: #ff5900;
+    --dpurple: rgb(122, 45, 245);
+    --mainFont: 'PT Sans', sans-serif;
 }
 
 
-.psu-blue{ color: #1e407c}
-.psublue{ color: #1e407c}
-.black { color: black; }
-.red { color: red; }
-.blue { color: blue; }
-.green { color: green; }
-.yellow { color: yellow; }
-.orange { color: orange; }
-.purple { color: purple; }
-.gray { color: gray; }
-.grey { color: gray; }
-.dblue { color: #1058ad; }
-.orchid { color: #db43d5; }
-.dorange { color: #ff5900; }
-.dodgerblue { color: dodgerblue; }
+
 
 .content-box-square {
     box-sizing: content-box;

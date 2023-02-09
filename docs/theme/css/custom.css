@@ -1,49 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&family=Saira+Semi+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@300&family=Barlow+Semi+Condensed:wght@300&family=Exo:wght@300&family=Saira+Condensed&family=Saira+Semi+Condensed:wght@100;400;500&family=Sofia+Sans+Semi+Condensed:wght@300&display=swap');
 
-/*-- css:defaults --*/
-.psu-blue{ color: #1e407c}
-.psublue{ color: #1e407c}
-.black { color: black; }
-.red { color: red; }
-.blue { color: blue; }
-.green { color: green; }
-.yellow { color: yellow; }
-.orange { color: orange; }
-.purple { color: purple; }
-.gray { color: gray; }
-.grey { color: gray; }
-.dblue { color: #1058ad; }
-.orchid { color: #db43d5; }
-.dorange { color: #ff5900; }
-.dodgerblue { color: #1e90ff; }
-.dpurple { color: rgb(122, 45, 245); }
-
-:root {
-    --psublue: #1e407c;
-    --psu-blue: #1e407c;
-    --black: black;
-    --white: white;
-    --red: red;
-    --blue: blue;
-    --green: green;
-    --yellow: yellow;
-    --orange: orange;
-    --purple: purple;
-    --gray: gray;
-    --grey: gray;
-    --dblue: #1058ad;
-    --orchid: #db43d5;
-    --dorange: #ff5900;
-    --dpurple: rgb(122, 45, 245);
-    
-    --mainFont: 'PT Sans', sans-serif;
-}
-
 
 
 /* ------------------------------------------------------ */
-
 
 body {
     font-family: 'PT Sans', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;

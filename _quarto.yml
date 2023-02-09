@@ -26,6 +26,7 @@ website:
     search: true
     style: fixed
     background: light
+    # background: dark
     collapse-level: 1
     # right:
     #   - icon: github
@@ -49,7 +50,7 @@ website:
 format:
   html:
     theme: cosmo
-      # light: cosmo
+      # light: simplex
       # dark: slate
     css: 
       - theme/css/colors.css
