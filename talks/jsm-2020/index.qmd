@@ -4,6 +4,8 @@ subtitle: Joint Statistical Meetings, 2020
 author: Siddharth Vishwanath
 date: 2020-08-03
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 

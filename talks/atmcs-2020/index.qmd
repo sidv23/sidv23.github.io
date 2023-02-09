@@ -4,6 +4,8 @@ subtitle: "Applied Topology: Methods, Compuation and Science, 2021"
 author: Siddharth Vishwanath
 date: 2020-07-21
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 The link to the slides is [here](https://sidvishwanath.com/atmcs-2020/). You can also wacth the talk on [YouTube here](https://www.youtube.com/watch?v=9K2ynjC5R0c)

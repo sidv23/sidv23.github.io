@@ -4,6 +4,9 @@ author: "Siddharth Vishwanath"
 date: "2023-01-23"
 categories: [news, code, analysis]
 image: "image.jpg"
+execute:
+  freeze: true
+  cache: true
 ---
 
 This is a post with executable code.

@@ -4,6 +4,8 @@ subtitle: Stohastic Modelling and Computational Statistics Talk, 2020
 author: Siddharth Vishwanath
 date: 2020-09-14
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 

@@ -4,6 +4,8 @@ subtitle: Joint Statistical Meetings, 2021
 author: Siddharth Vishwanath
 date: 2021-08-01
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 

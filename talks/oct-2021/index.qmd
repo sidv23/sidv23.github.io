@@ -4,6 +4,8 @@ subtitle: IBM Research
 author: Siddharth Vishwanath
 date: 2020-10-01
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 The link to the slides is [here](https://sidvishwanath.com/sep31/#1).

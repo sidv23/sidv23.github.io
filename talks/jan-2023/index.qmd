@@ -4,6 +4,8 @@ subtitle: University of Michigan
 author: Siddharth Vishwanath
 date: 2023-01-18
 categories: [tda, differential privacy, random graphs]
+execute:
+  freeze: true
 ---
 
 The link to the slides is [here](https://sidvishwanath.com/jan18/).

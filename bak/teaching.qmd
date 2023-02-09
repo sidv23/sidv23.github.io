@@ -3,6 +3,8 @@ title: "Teaching"
 permalink: /teaching/
 redirect_from:
   - /teaching
+execute:
+  freeze: true
 ---
 
 

@@ -8,6 +8,8 @@ listing:
   template: theme/ejs/research.ejs
   contents:
     - src/publications.yml
+execute:
+  freeze: true
 ---
 
 My research interests are broadly in the areas of:

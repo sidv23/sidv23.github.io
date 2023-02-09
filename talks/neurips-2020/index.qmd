@@ -4,6 +4,8 @@ subtitle: NeurIPS 2020
 author: Siddharth Vishwanath
 date: 2020-12-08
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 

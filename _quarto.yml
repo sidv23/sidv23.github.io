@@ -1,13 +1,11 @@
+execute:
+  freeze: true
 project:
   type: website
   output-dir: docs
   render:
     - "*.qmd"
     - "*.md"
-
-execute:
-  freeze: true
-  
 website:
   title: "Siddharth Vishwanath"
   favicon: icons/icon-48x48.png

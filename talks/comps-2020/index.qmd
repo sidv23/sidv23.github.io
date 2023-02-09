@@ -4,6 +4,8 @@ subtitle: Slides for My Comprehensive Exam
 author: Siddharth Vishwanath
 date: 2020-12-04
 categories: [tda]
+execute:
+  freeze: true
 ---
 
 

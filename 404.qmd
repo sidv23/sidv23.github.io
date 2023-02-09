@@ -1,5 +1,7 @@
 ---
 title: Page Not Found
+execute:
+  freeze: true
 ---
 
 ::: {.center}

@@ -4,6 +4,8 @@ subtitle: Center for Astrostatistics, 2022
 author: Siddharth Vishwanath
 date: 2022-10-21
 categories: [hmc, haram]
+execute:
+  freeze: true
 ---
 
 The link to the slides is [here](https://sidvishwanath.com/oct21).
