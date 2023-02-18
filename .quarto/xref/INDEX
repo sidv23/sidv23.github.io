@@ -88,5 +88,8 @@
   },
   "bak/teaching.qmd": {
     "teaching.html": "898c8a6f"
+  },
+  "talks/feb-2023/index.qmd": {
+    "index.html": "22e4e597"
   }
 }

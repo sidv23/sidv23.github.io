@@ -1,0 +1,13 @@
+---
+title: Robust Topological Inference in the Presence of Outliers
+subtitle: University of California, San Diego
+author: Siddharth Vishwanath
+date: 2023-01-18
+categories: [tda, robust statistics, weighted-rips]
+execute:
+  freeze: true
+---
+
+The link to the slides is [here](https://sidvishwanath.com/feb16/).
+
+<iframe src="https://sidvishwanath.com/jan16/" width="900" height="550"></iframe>

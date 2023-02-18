@@ -13,6 +13,7 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/feb-2023/index.html",
       "/talks/jan-2023/index.html",
       "/talks/CAst-2022/index.html",
       "/talks/jsm-2021/index.html",
@@ -31,6 +32,7 @@
   {
     "listing": "/test.html",
     "items": [
+      "/talks/feb-2023/index.html",
       "/talks/jan-2023/index.html",
       "/talks/CAst-2022/index.html",
       "/talks/jsm-2021/index.html",
