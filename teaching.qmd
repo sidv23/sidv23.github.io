@@ -6,7 +6,7 @@ redirect_from:
 listing:
   sort-ui: false
   categories: false
-  filter-ui: true
+  filter-ui: false
   date-format: YYYY
   template: theme/ejs/teaching.ejs
   contents:
@@ -15,7 +15,9 @@ execute:
   freeze: true
 ---
 
-My interest in research has been cultivated and nurtured by inspirational teachers, and my own teaching philosophy has been molded, and has evolved, to reflect these experiences. As an educator, my aim is to provide students with the ability to understand the theoretical underpinnings in statistical reasoning and to apply these methods using computing, quantitative analyses, and data science. 
+<!-- My interest in research has been cultivated and nurtured by inspirational teachers, and my own teaching philosophy has been molded, and has evolved, to reflect these experiences.  -->
+<!-- As an educator, my aim is to provide students with the ability to understand the theoretical underpinnings in statistical reasoning and to apply these methods using computing, quantitative analyses, and data science.  -->
+Here's a list of all the courses I've had the pleasure of teaching over the years. Course materials are available upon request.
 
 <!-- 
 

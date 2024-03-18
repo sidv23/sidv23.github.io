@@ -1,16 +1,18 @@
-- title: Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling
-  authors: [Siddharth Vishwanath, Hyungsuk Tak]
-  date: 2022-01-01
-  journal: In Preparation
-  status: unpublished
-  info:
-
 - title: Topological Inference for Random Dot-Product Graphs under Local Differential Privacy 
   authors: [Siddharth Vishwanath, Jonathan Hehir]
   date: 2022-02-12
   journal: In Preparation
   status: unpublished
   info:
+
+- title: Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling
+  authors: [Siddharth Vishwanath, Hyungsuk Tak]
+  date: 2022-01-01
+  journal: Under Review
+  status: published
+  info:
+  - name: arXiv
+    url: https://arxiv.org/abs/2403.04607
 
 - title: Efficient and Outlier Robust Topological Inference 
   authors: 

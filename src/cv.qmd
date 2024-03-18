@@ -24,7 +24,9 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
 
 ## Awards
 
-{{< fa star >}} &nbsp; **Student Travel Award** <br> _Geometric Data Analysis, University of Chicago_, 2019
+{{< fa star >}} &nbsp; **Alumni Association Dissertation Award** <br> _Penn State University_, 2023
+
+<!-- {{< fa star >}} &nbsp; **Student Travel Award** <br> _Geometric Data Analysis, University of Chicago_, 2019 -->
 
 {{< fa star >}} &nbsp; **Proficiency Medal** <br> _Indian Institute of Technology - Kanpur_, 2015
 

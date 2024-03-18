@@ -1,55 +1,64 @@
+- course: Math 189 
+  name: Statistical Data Analysis and Inference
+  cycle: Winter 2024 & Spring 2024
+  url: 
+  location: UC San Diego
+  role: Instructor
+
+- course: Math 183
+  name: Statistical Methods
+  cycle: Fall 2023 & Winter 20024
+  url: 
+  location: UC San Diego
+  role: Instructor
+
 - course: Stat 380 
   name: Data Science through Statistical reasoning
-  year: 2023
-  cycle: Spring
+  cycle: Spring 2023
   url: https://psu-stat380.github.io
+  location: Penn State
   role: Instructor
 
 - course: Math/Stat 319
   name: Fundamentals of Mathematical Statistics 
-  year: 2022
-  cycle: Fall
+  cycle: Fall 2022
   url: https://sidvishwanath.com/stat319
+  location: Penn State
   role: Instructor
 
 - course: Stat 597
   name: Nonparametrics and Statistical Learning Theory
-  year: 2021
-  cycle: Fall
+  cycle: Fall 2021
   role: Teaching Assistant
 
 - course: Stat 504
   name: Multivariate Analysis 
-  year: 2019
-  cycle: Summer
+  cycle: Summer 2019
   url: 
   role: Teaching Assistant
 
 - course: Stat 250
   name:  Introduction to Biostatistics
-  year: 2019
-  cycle: Spring
+  cycle: Spring 2019
   url: 
   role: Teaching Assistant
 
 - course: Stat 511
   name:  Graduate Course on Regression Analysis
-  year: 2018
-  cycle: Fall
+  cycle: Fall 2019
   url: 
   role: Teaching Assistant
 
 - course: Math/Stat 415
   name: Introduction to Mathematical Statistics
-  year: 2018
-  cycle: Spring
+  cycle: Spring 2018
   url: 
+  location: Penn State
   role: Instructor
 
 - course: Math/Stat 415
   name: Introduction to Mathematical Statistics 
-  year: 2017  
-  cycle: Fall
+  cycle: Fall 2017
   url: 
   role: Teaching Assistant
 
@@ -58,6 +67,5 @@
 
 # - course: 
 #   name:  
-#   year: 
 #   cycle: 
 #   url: 

@@ -1,31 +1,19 @@
 <% for (item of items) { %>
 
-::: {<%= item['status']==='unpublished' ? '.callout-warning' : '.callout-note' %> icon=false collapse=false}
+:::: {<%= item['status']==='unpublished' ? '.callout-warning' : '.callout-note' %> icon=false collapse=false}
 ## <%= item.title %>
 
-<% for (let j = 0; j < item.authors.length; j++) { %>
-<% if (item.authors[j] === 'Siddharth Vishwanath') { %>
-<!-- [<%= item.authors[j] %>]{style="color: dodgerblue;"} -->
-[<%= item.authors[j] %>]{style="color: #005A9C80;"}
-<% } else { %>
-<%= item.authors[j] %>
-<% } %>
-<% if (j !== item.authors.length - 1) { %>, <% } %>
-<% } %>
+<%= item.authors.map(author => author === "Siddharth Vishwanath" ? `[Siddharth Vishwanath]{style="color: #005A9C80;"}` : author).join(", ") %>
 
-<br>
 
 [_<%= item.journal %>. (<%= item.date %>)_]{style="text-align: left;"}
 
-<br>
-
-[<% if ((item.info || []).length > 0) { %>
-<% for (let j=0; j < item.info.length; j++) { %>
-[[<%= item.info[j].name %>](<%= item.info[j].url %>)]
-<% if (j !== item.info.length - 1) { %>, <% } %>
+::: {style="text-align: right;"}
+<% if ((item.info || []).length > 0) { %>
+<%= item.info.map(info=> `[${info.name}](${info.url})`).join(", ") %>
 <% } %>
-<% } %>]{style="align: right;"}
-
 :::
+
+::::
 
 <% } %>

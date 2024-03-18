@@ -1,0 +1,49 @@
+```{=html}
+<table class="quarto-listing-table table">
+<thead>
+<!-- <td><strong> Role </strong></td> -->
+<td><strong> Course </strong></td>
+<td><strong> Title </strong></td>
+<td><strong> Offering </strong></td>
+<!-- <td><strong> Link </strong></td> -->
+</thead>
+<tbody class="list">
+<% for (const item of items) {
+    if (item.role === "Instructor") { %> <!-- Comment this line to filter by role -->
+<tr data-index="0" data-categories="null" <%= metadataAttrs(item) %>>
+
+<!-- Uncomment this line to filter by role -->
+<!-- <td class="listing-role">
+    <span data-bs-toggle="tooltip" data-bs-placement="top" title="<%= item.role %>">
+        <%= item.role %>
+    </span>    
+</td> -->
+<td class="listing-course">
+<%= item.course %>
+</td>
+<td class="listing-title">
+    <span >
+    <%= item.name %>
+    </span>
+</td>
+<td class="listing-season" style="text-align: left;">
+<span><%= item.cycle %></span></span>
+</td>
+
+<!-- Uncomment this line to enable URLs -->
+<!-- <td class="listing-url">
+<% if (item.url) { %>
+    <a href="<%= item.url %>">
+    <i class="bi bi-link-45deg" style="font-size: larger; font-weight: 500;"></i>
+    </a> &nbsp;&nbsp;
+<% } %>
+</td> -->
+<!--  -->
+
+</tr>
+<% } %>
+<% } %>
+</tbody>
+</table>
+
+```
