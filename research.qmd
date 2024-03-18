@@ -20,5 +20,4 @@ My research interests are broadly in the areas of:
 
 * **Probabilistic Methods:** Hamiltonian Monte Carlo, generative models
 
-
-<br>
+The following is a list of my publications and preprints.

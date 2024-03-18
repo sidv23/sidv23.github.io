@@ -17,7 +17,7 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
 ::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
 ## Education
 
-{{< fa graduation-cap >}} &nbsp; [**Penn State University**]{} <br> _Ph.D. Candidate, Statistics_,   2017---Present
+{{< fa graduation-cap >}} &nbsp; [**Penn State University**]{} <br> _Ph.D., Statistics_,   2023
 
 {{< fa graduation-cap >}} &nbsp; [**Indian Institute of Technology, Kanpur**]{} <br> _M.Sc. (Integrated), Mathematics_,   2015
 

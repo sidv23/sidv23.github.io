@@ -1,9 +1,9 @@
-- title: Topological Inference for Random Dot-Product Graphs under Local Differential Privacy 
-  authors: [Siddharth Vishwanath, Jonathan Hehir]
-  date: 2024-02-12
-  journal: In Preparation
-  status: unpublished
-  info:
+# - title: Topological Inference for Random Dot-Product Graphs under Local Differential Privacy 
+#   authors: [Siddharth Vishwanath, Jonathan Hehir]
+#   date: 2024-02-12
+#   journal: In Preparation
+#   status: unpublished
+#   info:
 
 - title: Repelling-Attracting Hamiltonian Monte Carlo for Multimodal Sampling
   authors: [Siddharth Vishwanath, Hyungsuk Tak]
