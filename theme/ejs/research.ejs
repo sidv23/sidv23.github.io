@@ -4,15 +4,11 @@
 ## <%= item.title %>
 
 <%= item.authors.map(author => author === "Siddharth Vishwanath" ? `[Siddharth Vishwanath]{style="color: #005A9C80;"}` : author).join(", ") %>
-
-
+<br>
 [_<%= item.journal %>. (<%= item.date %>)_]{style="text-align: left;"}
-
-::: {style="text-align: right;"}
-<% if ((item.info || []).length > 0) { %>
-<%= item.info.map(info=> `[${info.name}](${info.url})`).join(", ") %>
-<% } %>
-:::
+[<% if ((item.info || []).length > 0) { %>
+<%= item.info.map(info=> `[[${info.name}](${info.url})]`).join(", ") %>
+<% } %>]{style="text-align: right;"}
 
 ::::
 
