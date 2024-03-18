@@ -1,3 +1,5 @@
+filters:
+  - nutshell
 execute:
   freeze: true
 project:

@@ -54,15 +54,17 @@ execute:
 <!-- text-align: justify; text-justify: inter-word; -->
 ::: {.g-col-12 .g-col-md-6 style="text-align: justify;"}
 
-I am a Stefan E. Warschawski Visiting Assistant Professor in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Dr. Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/). My research interests lie in the intersection of topological data analysis, statistical learning theory, and robust statistics. 
+I am a Stefan E. Warschawski [:Visiting Assistant Professor](#x-vap) in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Dr. Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/). My research interests lie in the intersection of topological data analysis, statistical learning theory, and robust statistics. 
 
 I completed my Ph.D. at [Penn State University](https://www.psu.edu/), advised by [Dr. Bharath Sriperumbudur](http://personal.psu.edu/bks18/), where I was honored to receive the [Alumni Association Dissertation Award](https://science.psu.edu/news/2023-alumni-association-dissertation-awards). At Penn State, I was also a research assistant and consultant with the [Statistical Consulting Center](https://scc.stat.psu.edu/).
 
 Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) with an M.Sc.(Integrated) in Mathematics and Statistics.
 
 :::
-
 ::::
+
+## :x vap
+A Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges.
 
 
 
