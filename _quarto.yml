@@ -43,7 +43,7 @@ website:
       text: Teaching
     - href: talks.qmd
       text: Talks
-    - href: src/cv.qmd
+    - href: CV.qmd
       text: CV
     - href: 404.qmd
       text: $\zeta(-1)$

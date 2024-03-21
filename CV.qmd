@@ -8,7 +8,7 @@ execute:
 ---
 
 
-My CV is available as a [PDF here](/files/cv.pdf). (Updated Dec 2022)
+My CV is available as a [PDF here](/files/cv.pdf). (Updated Mar 2024)
 
 
 :::: {.grid}

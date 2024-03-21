@@ -56,25 +56,18 @@
     "text": "Here are the links to the slides from some selected talks I have given in the past.\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\nCenter for Astrostatistics, 2022\n\n\n\nOct 2022\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\nJoint Statistical Meetings, 2021\n\n\n\nAug 2021\n\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nNeurIPS 2020\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\nSlides for My Comprehensive Exam\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\nIBM Research\n\n\n\nOct 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\nStohastic Modelling and Computational Statistics Talk, 2020\n\n\n\nSep 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nJoint Statistical Meetings, 2020\n\n\n\nAug 2020\n\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nApplied Topology: Methods, Compuation and Science, 2021\n\n\n\nJul 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "My research interests are broadly in the areas of:\n\nTopological Data Analysis: Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference\nStatistical Learning Theory: Reproducing kernel Hilbert spaces in probability and statistics, differential privacy\nProbabilistic Methods: Hamiltonian Monte Carlo, generative models\n\nThe following is a list of my publications and preprints.\n\n\n\n\n\n\n\n\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo\n\n\n\n\n\nSiddharth Vishwanath, Hyungsuk Tak  Submitted. (2024) [arXiv], [code]\n\n\n\n\n\n\n\n\n\nEfficient and Outlier Robust Topological Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu, and Satoshi Kuriki  Submitted. (2022) [arXiv], [code]\n\n\n\n\n\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\n\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur  Submitted. (2022) [arXiv], [Slides], [Talk]\n\n\n\n\n\n\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\n\n\n\nRobert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon  Soil Science Society of America Journal. Springer. (2022) [Link]\n\n\n\n\n\n\n\n\n\nThe Shape of Edge Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath, Jonathan Hehir  Theory and Practice of Differential Privacy Workshop, ICML. (2021) [Poster], [Workshop Paper]\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur  Advances in Neural Information Processing Systems. NeurIPS. (2021) [Link], [Slides], [Code], [Poster]\n\n\n\n\n\n\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\n\n\n\nSiddharth Vishwanath, Debasis Kundu  Advances in Reliability and System Engineering. Springer. (2017) [Link]\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\nThis chunk executes R code\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\nThis chunk executes python code\nimport os\nos.getwd()\nThis chunk executes Julia code\n\nusing Plots\nplot(\n    1:0.1:5, \n    x -&gt; x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#x-vap",
+    "href": "index.html#x-vap",
+    "title": "Siddharth Vishwanath",
+    "section": ":x vap",
+    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
   },
   {
     "objectID": "bak/teaching.html",
@@ -98,46 +91,53 @@
     "text": "Teaching Assistant\n\nFall 2021: Stat 597, Nonparametrics and Statistical Learning Theory (course website)\nSummer 2019: Stat 504, Multivariate Analysis\nSpring 2019: Stat 250, Introduction to Biostatistics\nFall 2018: Stat 511, Graduate Course on Regression Analysis\nFall 2017: Stat 415, Introduction to Mathematical Statistics"
   },
   {
-    "objectID": "index.html#x-vap",
-    "href": "index.html#x-vap",
-    "title": "Siddharth Vishwanath",
-    "section": ":x vap",
-    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "src/cv.html",
-    "href": "src/cv.html",
+    "objectID": "CV.html",
+    "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "My CV is available as a PDF here. (Updated Dec 2022)"
+    "text": "My CV is available as a PDF here. (Updated Mar 2024)"
   },
   {
-    "objectID": "src/cv.html#education",
-    "href": "src/cv.html#education",
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
     "title": "CV",
     "section": "Education",
     "text": "Education\n   Penn State University  Ph.D., Statistics, 2023\n   Indian Institute of Technology, Kanpur  M.Sc. (Integrated), Mathematics, 2015"
   },
   {
-    "objectID": "src/cv.html#awards",
-    "href": "src/cv.html#awards",
+    "objectID": "CV.html#awards",
+    "href": "CV.html#awards",
     "title": "CV",
     "section": "Awards",
     "text": "Awards\n   Alumni Association Dissertation Award  Penn State University, 2023\n\n   Proficiency Medal  Indian Institute of Technology - Kanpur, 2015\n   Academic Excellence Award  Indian Institute of Technology - Kanpur, 2015\n   KVPY Fellowship  Department of Science & Technology  Government of India, 2010—2015"
   },
   {
-    "objectID": "src/cv.html#professional-experience",
-    "href": "src/cv.html#professional-experience",
+    "objectID": "CV.html#professional-experience",
+    "href": "CV.html#professional-experience",
     "title": "CV",
     "section": "Professional Experience",
     "text": "Professional Experience\n   IBM Research  Research Intern, 2022\n   Penn State University  Statistical Consultant, 2019—2022\n   Institute of Statistical Mathematics  Visiting Student Researcher, 2019 & 2018\n   Goldman Sachs  Senior Quantitative Analyst, 2016—2017\n   Nomura  Model Validation Quant, 2015—2016"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\nThis chunk executes R code\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\nThis chunk executes python code\nimport os\nos.getwd()\nThis chunk executes Julia code\n\nusing Plots\nplot(\n    1:0.1:5, \n    x -&gt; x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests are broadly in the areas of:\n\nTopological Data Analysis: Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference\nStatistical Learning Theory: Reproducing kernel Hilbert spaces in probability and statistics, differential privacy\nProbabilistic Methods: Hamiltonian Monte Carlo, generative models\n\nThe following is a list of my publications and preprints.\n\n\n\n\n\n\n\n\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo\n\n\n\n\n\nSiddharth Vishwanath, Hyungsuk Tak  Submitted. (2024) [arXiv], [code]\n\n\n\n\n\n\n\n\n\nEfficient and Outlier Robust Topological Inference\n\n\n\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu, and Satoshi Kuriki  Submitted. (2022) [arXiv], [code]\n\n\n\n\n\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\n\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur  Submitted. (2022) [arXiv], [Slides], [Talk]\n\n\n\n\n\n\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\n\n\n\nRobert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon  Soil Science Society of America Journal. Springer. (2022) [Link]\n\n\n\n\n\n\n\n\n\nThe Shape of Edge Differential Privacy\n\n\n\n\n\nSiddharth Vishwanath, Jonathan Hehir  Theory and Practice of Differential Privacy Workshop, ICML. (2021) [Poster], [Workshop Paper]\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur  Advances in Neural Information Processing Systems. NeurIPS. (2021) [Link], [Slides], [Code], [Poster]\n\n\n\n\n\n\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\n\n\n\nSiddharth Vishwanath, Debasis Kundu  Advances in Reliability and System Engineering. Springer. (2017) [Link]\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/CAst-2022/index.html",
