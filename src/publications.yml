@@ -5,6 +5,36 @@
 #   status: unpublished
 #   info:
 
+- title: Signal Recovery from Random Dot-Product Graphs under Local Differential Privacy
+  authors: [Siddharth Vishwanath, Jonathan Hehir]
+  date: 2025-01-01
+  journal: International Conference on Artificial Intelligence and Statistics. AISTATS
+  status: published
+  info:
+  - name: Link
+    url: https://proceedings.mlr.press/v258/vishwanath25a.html
+  - name: Code
+    url: https://github.com/sidv23/grdpg-ldp
+
+- title: Minimax Optimality of Classical Scaling Under General Noise Conditions
+  authors: [Siddharth Vishwanath, Ery Arias-Castro]
+  date: 2025-01-01
+  journal: Submitted
+  status: published
+  info:
+  - name: arXiv
+    url: https://arxiv.org/abs/2502.00947
+
+- title: Stability of Sequential Lateration and of Stress Minimization in the Presence of Noise
+  authors: [Ery Arias-Castro, Siddharth Vishwanath]
+  date: 2024-01-01
+  journal: SIAM Journal on the Mathematics of Data Science
+  status: published
+  info:
+  - name: Preprint
+    url: https://arxiv.org/abs/2310.10900v3
+
+
 - title: Repelling-Attracting Hamiltonian Monte Carlo
   authors: [Siddharth Vishwanath, Hyungsuk Tak]
   date: 2024-01-01
@@ -16,7 +46,7 @@
   - name: code
     url: https://github.com/sidv23/ra-hmc
 
-- title: Efficient and Outlier Robust Topological Inference 
+- title: Adversarially Robust Topological Inference
   authors: 
   - Siddharth Vishwanath
   - Bharath Sriperumbudur
