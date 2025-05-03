@@ -1,13 +1,13 @@
 - course: Math 189 
   name: Statistical Data Analysis and Inference
-  cycle: Wi 2024, Sp 2024, Wi 2025
+  cycle: Winter 2024, Spring 2024, Winter 2025
   url: 
   location: UC San Diego
   role: Instructor
 
 - course: Math 183
   name: Statistical Methods
-  cycle: Fa 2023, Wi 2024 & Fa, Wi, Sp 2025
+  cycle: Fall 2023, Winter 2024, {Fall, Winter, Spring} 2025
   url: 
   location: UC San Diego
   role: Instructor
