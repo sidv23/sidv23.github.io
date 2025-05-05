@@ -68,12 +68,12 @@
   - Kenji Fukumizu
   - Satoshi Kuriki
   - and Bharath Sriperumbudur
-  date: 2022-02-12
-  journal: Submitted
+  date: 2024
+  journal: Foundations of Data Science
   status: published
   info:
-  - name: arXiv
-    url: https://arxiv.org/abs/2001.00220
+  - name: Link
+    url: https://doi.org/10.3934/fods.2024035
   - name: Slides
     url: https://sidv23.github.io/atmcs-2020
   - name: Talk
