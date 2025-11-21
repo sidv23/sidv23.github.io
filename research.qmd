@@ -14,9 +14,11 @@ execute:
 
 My research interests are broadly in the areas of:
 
+* **Inference from relational data:** Multidimensional scaling, embedding methods for graphs, network data analysis, differential privacy
+
 * **Topological Data Analysis:** Statistical behavior of Betti numbers, statistical inference from topological summaries, robust topological inference
 
-* **Statistical Learning Theory:** Reproducing kernel Hilbert spaces in probability and statistics, differential privacy
+* **Statistical Learning Theory:** Reproducing kernel Hilbert spaces in probability and statistics
 
 * **Probabilistic Methods:** Hamiltonian Monte Carlo, generative models
 

@@ -8,9 +8,10 @@ execute:
 ---
 
 
-My CV is available as a [PDF here](/files/cv.pdf). (Updated Mar 2024)
+My CV is available as a [PDF here](/files/cv.pdf). (Updated Sep 2025)
 
 
+<!-- 
 :::: {.grid}
 
 
@@ -25,8 +26,6 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Mar 2024)
 ## Awards
 
 {{< fa star >}} &nbsp; **Alumni Association Dissertation Award** <br> _Penn State University_, 2023
-
-<!-- {{< fa star >}} &nbsp; **Student Travel Award** <br> _Geometric Data Analysis, University of Chicago_, 2019 -->
 
 {{< fa star >}} &nbsp; **Proficiency Medal** <br> _Indian Institute of Technology - Kanpur_, 2015
 
@@ -50,11 +49,19 @@ My CV is available as a [PDF here](/files/cv.pdf). (Updated Mar 2024)
 {{< fa briefcase >}} &nbsp; **Nomura** <br>  _Model Validation Quant_,   2015---2016
 
 :::
+:::: -->
 
 
 
 
-::::
+
+
+
+
+
+
+
+
 
 <!-- 
 ---

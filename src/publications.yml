@@ -5,6 +5,16 @@
 #   status: unpublished
 #   info:
 
+- title: Confidence Sets for Multidimensional Scaling
+  authors: [Siddharth Vishwanath, Ery Arias-Castro]
+  date: 2025-01-01
+  journal: Submitted
+  status: published
+  info:
+  - name: arXiv
+    url: https://arxiv.org/abs/2510.22452
+
+
 - title: Signal Recovery from Random Dot-Product Graphs under Local Differential Privacy
   authors: [Siddharth Vishwanath, Jonathan Hehir]
   date: 2025-01-01
