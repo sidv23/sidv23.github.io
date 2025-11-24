@@ -1,0 +1,102 @@
+---
+sidebar: false
+toc: false
+layout: full
+# listing:
+#   - id: latest-news
+#     contents: talks
+#     sort: "date desc"
+#     page-size: 3
+#     max-items: 3
+#     template: theme/ejs/homepage-news.ejs
+#     type: custom
+#     categories: false
+#     sort-ui: false
+#     filter-ui: false
+#     fields: [date, title]
+#     feed: false
+execute:
+  freeze: true
+---
+
+<!-- color: rgb(132, 45, 245); -->
+
+::: {style="text-align: right;"}
+## [[**Siddharth**]{style="font-weight: 500;"} Vishwanath]{style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100; font-family: 'Saira Semi Condensed', sans-serif;"}
+:::
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+
+<div class="juxtapose" data-startingposition="45%" style="height: '330px'; width: 330px;">
+<img src="images/profile5-2.jpg" data-label="" alt="">
+<img src="images/profile5.jpg" data-label="" alt="">
+</div>
+
+::: {style="text-align: center; font-size: 1.5em; margin-top: 10px;"}
+[<i class="fa-brands fa-linkedin"></i> ](https://linkedin.com/in/sidv23) ·
+[<i class="fa-brands fa-github"></i> ](https://github.com/sidv23) ·
+[<i class="ai ai-google-scholar-square"></i> ](https://scholar.google.com/citations?user=7TQaHEEAAAAJ&hl=en)
+:::
+
+::: {style="text-align: center; margin-top: 10px;"}
+<i class="fa-solid fa-envelope"></i> svishwanath [at] ucsd [dot] edu
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-1 style="text-align: left;"}
+:::
+
+<!-- text-align: justify; text-justify: inter-word; -->
+::: {.g-col-12 .g-col-md-6 style="text-align: justify;"}
+
+I am a Stefan E. Warschawski [:Visiting Assistant Professor](#x-vap) in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/). My research interests lie in the intersection of topological data analysis, statistical learning theory, and probabilistic methods. 
+
+I completed my Ph.D. at [Penn State University](https://www.psu.edu/), advised by [Bharath Sriperumbudur](https://bharathsv.github.io/), where I was honored to receive the [Alumni Association Dissertation Award](https://science.psu.edu/news/2023-alumni-association-dissertation-awards). At Penn State, I was also a research assistant and consultant with the [Statistical Consulting Center](https://scc.stat.psu.edu/).
+
+Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) with a degree in Mathematics and Statistics.
+
+:::
+::::
+
+## :x vap
+A Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges.
+
+
+<!-- 
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-7 style="text-align: left;"}
+## Education
+
+{{< fa graduation-cap >}} &nbsp; Ph.D. Candidate, Statistics<br> [_Penn State University_]{.dodgerblue}
+
+{{< fa graduation-cap >}} &nbsp; M.Sc. (Integrated), Mathematics <br> [_Indian Institute of Technology, Kanpur_]{.dodgerblue}
+
+:::
+
+::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+## Interests
+
+* Topological data analysis
+* Statistical learning theory
+* Robust statistics
+* Generative models
+
+You can find out more about my work [here](research.qmd).
+
+:::
+
+:::: -->
+
+<!-- :::{.column-body-outset}
+
+## Latest News
+
+::: {#latest-news}
+:::
+
+{{< bi arrow-bar-right color="#047a06" >}} *[All Posts](blog.qmd)*
+::: -->

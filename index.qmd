@@ -27,12 +27,18 @@ execute:
 
 :::: {.grid}
 
-::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+::: {.g-col-3 .g-col-md-5 style="text-align: left;"}
+::: {.center}
 
-<div class="juxtapose" data-startingposition="45%" style="height: '330px'; width: 330px;">
+<img src="images/profile7.png" data-label="" alt="" style="width: 95%; object-fit: cover; border-radius: 2%;">
+
+:::
+
+
+<!-- <div class="juxtapose" data-startingposition="45%" style="height: '330px'; width: 330px;">
 <img src="images/profile5-2.jpg" data-label="" alt="">
 <img src="images/profile5.jpg" data-label="" alt="">
-</div>
+</div> -->
 
 ::: {style="text-align: center; font-size: 1.5em; margin-top: 10px;"}
 [<i class="fa-brands fa-linkedin"></i> ](https://linkedin.com/in/sidv23) ·
@@ -46,11 +52,11 @@ execute:
 
 :::
 
-::: {.g-col-12 .g-col-md-1 style="text-align: left;"}
+::: {.g-col-1 .g-col-md-1 style="text-align: left;"}
 :::
 
 <!-- text-align: justify; text-justify: inter-word; -->
-::: {.g-col-12 .g-col-md-6 style="text-align: justify;"}
+::: {.g-col-8 .g-col-md-6 style="text-align: justify;"}
 
 I am a Stefan E. Warschawski [:Visiting Assistant Professor](#x-vap) in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/). My research interests lie in the intersection of topological data analysis, statistical learning theory, and probabilistic methods. 
 
