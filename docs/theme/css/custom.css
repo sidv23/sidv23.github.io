@@ -6,9 +6,9 @@
 /* ------------------------------------------------------ */
 
 body {
-    font-family: 'PT Sans', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    /* font-family: 'Saira Semi Condensed', sans-serif; */
-    font-size: 0.9em;
+    /* font-family: 'PT Sans', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 0.95em;
     line-height: 1.5em;
     background-color: #faf8f810;
 }

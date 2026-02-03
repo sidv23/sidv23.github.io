@@ -50,11 +50,11 @@ execute:
 
 :::
 
-::: {.g-col-12 .g-col-md-1 style="text-align: left;"}
+::: {.g-col-6 .g-col-md-1 style="text-align: left;"}
 :::
 
 <!-- text-align: justify; text-justify: inter-word; -->
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-6 .g-col-md-6}
 
 I am a Stefan E. Warschawski [:Visiting Assistant Professor](#x-vap) in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/). My research interests lie in the intersection of topological data analysis, statistical learning theory, and probabilistic methods. 
 
