@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.27">
+<meta name="generator" content="quarto-1.9.16">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./icons/icon-48x48.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a67ac2868200dddf7a4f0e3ae403775c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2d6b043f54d60c02f5aeed4beddc8498.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/nutshell-1.0.7/nutshell.js"></script>
 <script src="site_libs/quarto-contrib/nutshell-1.0.7/nutshell_options.js"></script>
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
@@ -119,7 +120,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,12 +140,12 @@ window.Quarto = {
 <link rel="stylesheet" href="theme/css/custom.css">
 <link rel="stylesheet" href="theme/css/styles.css">
 <link rel="stylesheet" href="theme/css/nutshell.css">
-<meta property="og:title" content="Siddharth Vishwanath">
+<meta property="og:title" content="– Siddharth Vishwanath">
 <meta property="og:description" content="Homepage">
 <meta property="og:image" content="images/profile7.png">
 <meta property="og:site_name" content="Siddharth Vishwanath">
 <meta property="og:image:alt" content="">
-<meta name="twitter:title" content="Siddharth Vishwanath">
+<meta name="twitter:title" content="– Siddharth Vishwanath">
 <meta name="twitter:description" content="Homepage">
 <meta name="twitter:image" content="images/profile7.png">
 <meta name="twitter:image:alt" content="">
@@ -159,7 +160,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./icons/icon-192x192.png" alt="" class="navbar-logo">
+    <img src="./icons/icon-192x192.png" alt="" class="navbar-logo light-content">
+    <img src="./icons/icon-192x192.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -212,16 +214,14 @@ window.Quarto = {
 
 <!-- color: rgb(132, 45, 245); -->
 <section id="siddharth-vishwanath" class="level2" style="text-align: right;">
-<h2 class="anchored" data-anchor-id="siddharth-vishwanath"><span style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100; font-family: 'Saira Semi Condensed', sans-serif;"><span style="font-weight: 500;"><strong>Siddharth</strong></span> Vishwanath</span></h2>
+<h2 class="anchored" data-anchor-id="siddharth-vishwanath"><span style="font-size: 35px; text-shadow: 0 0 2px black; font-weight: 100;"><span style="font-weight: 450;"><strong>Siddharth</strong></span> Vishwanath</span></h2>
 </section>
 <div class="grid">
-<div class="g-col-3 g-col-md-5" style="text-align: left;">
-<div class="center">
+<div class="g-col-12 g-col-md-5" style="text-align: left;">
 <p><img src="images/profile7.png" data-label="" alt="" style="width: 95%; object-fit: cover; border-radius: 2%;"></p>
-</div>
-<!-- <div class="juxtapose" data-startingposition="45%" style="height: '330px'; width: 330px;">
-<img src="images/profile5-2.jpg" data-label="" alt="">
+<!-- <div class="juxtapose" data-startingposition="47%" style="height: '330px'; width: 330px;">
 <img src="images/profile5.jpg" data-label="" alt="">
+<img src="images/profile5-2.jpg" data-label="" alt="">
 </div> -->
 <div style="text-align: center; font-size: 1.5em; margin-top: 10px;">
 <p><a href="https://linkedin.com/in/sidv23"><i class="fa-brands fa-linkedin"></i></a> · <a href="https://github.com/sidv23"><i class="fa-brands fa-github"></i></a> · <a href="https://scholar.google.com/citations?user=7TQaHEEAAAAJ&amp;hl=en"><i class="ai ai-google-scholar-square"></i></a></p>
@@ -230,11 +230,11 @@ window.Quarto = {
 <p><i class="fa-solid fa-envelope"></i> svishwanath [at] ucsd [dot] edu</p>
 </div>
 </div>
-<div class="g-col-1 g-col-md-1" style="text-align: left;">
+<div class="g-col-12 g-col-md-1" style="text-align: left;">
 
 </div>
 <!-- text-align: justify; text-justify: inter-word; -->
-<div class="g-col-8 g-col-md-6" style="text-align: justify;">
+<div class="g-col-12 g-col-md-6" style="text-align: justify;">
 <p>I am a Stefan E. Warschawski <a href="#x-vap">:Visiting Assistant Professor</a> in the <a href="https://www.math.ucsd.edu/">Department of Mathematics</a> at <a href="https://www.ucsd.edu/">UC San Diego</a>, mentored by <a href="https://mathweb.ucsd.edu/~eariasca/">Ery Arias-Castro</a>. My research interests lie in the intersection of topological data analysis, statistical learning theory, and probabilistic methods.</p>
 <p>I completed my Ph.D.&nbsp;at <a href="https://www.psu.edu/">Penn State University</a>, advised by <a href="https://bharathsv.github.io/">Bharath Sriperumbudur</a>, where I was honored to receive the <a href="https://science.psu.edu/news/2023-alumni-association-dissertation-awards">Alumni Association Dissertation Award</a>. At Penn State, I was also a research assistant and consultant with the <a href="https://scc.stat.psu.edu/">Statistical Consulting Center</a>.</p>
 <p>Prior to joining Penn State, I worked as a quantitative researcher at Goldman Sachs from 2016 to 2017, and as a model validation quant at Nomura from 2015 to 2016. I graduated from the <a href="https://www.iitk.ac.in/">Indian Institute of Technology, Kanpur</a> with a degree in Mathematics and Statistics.</p>
@@ -258,7 +258,7 @@ window.Quarto = {
 ::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
 ## Interests
 
-* Topological data analysis
+* Topological data Analysis
 * Statistical learning theory
 * Robust statistics
 * Generative models
@@ -267,16 +267,16 @@ You can find out more about my work [here](research.qmd).
 
 :::
 
-:::: -->
-<!-- :::{.column-body-outset}
+::::
+
+:::{.column-body-outset}
 
 ## Latest News
 
 ::: {#latest-news}
-:::
-
-{{< bi arrow-bar-right color="#047a06" >}} *[All Posts](blog.qmd)*
 ::: -->
+<!-- {{< bi arrow-bar-right color="#047a06" >}} *[All Posts](blog.qmd)* -->
+<p>:::</p>
 
 
 </section>
@@ -333,13 +333,14 @@ You can find out more about my work [here](research.qmd).
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -685,7 +686,7 @@ You can find out more about my work [here](research.qmd).
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><code>Siddharth Vishwanath. 2025</code></p>
+<p><code>Siddharth Vishwanath. 2026</code></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
