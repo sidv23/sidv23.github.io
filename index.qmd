@@ -36,7 +36,7 @@ execute:
 <img src="images/profile7.png" data-label="" alt="">
 </div>
 
-::: {.social-links style="margin-top: 10px;"}
+::: {.social-links style="align: center; margin-top: 10px;"}
 [{{< fa brands github >}} Github ](https://github.com/sidv23){.social-link}
 [{{< fa brands linkedin >}} LinkedIn ](https://linkedin.com/in/sidv23){.social-link}
 [{{< ai google-scholar >}} Google Scholar ](https://scholar.google.com/citations?user=7TQaHEEAAAAJ&hl=en&sortby=pubdate){.social-link}
