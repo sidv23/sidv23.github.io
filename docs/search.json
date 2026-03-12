@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "test.html#education",
-    "href": "test.html#education",
-    "title": "Siddharth Vishwanath",
-    "section": "Education",
-    "text": "Education\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur"
+    "objectID": "GEMINI.html",
+    "href": "GEMINI.html",
+    "title": "Siddharth Vishwanath - Academic Website",
+    "section": "",
+    "text": "This is the source code for the personal and academic website of Siddharth Vishwanath, built using Quarto. It is a data-driven website that leverages YAML for content management and EJS for custom templating.\n\n\n\nTechnologies: Quarto, EJS, YAML, R (renv), CSS/SCSS.\nArchitecture:\n\nContent: Managed via .qmd files in the root and subdirectories (e.g., talks/).\nData-Driven Pages: research.qmd and teaching.qmd use custom EJS templates to render lists from YAML data files in src/.\nCustom Styling: Extensive custom styling is defined in theme/css/. Fonts are managed separately in fonts.css and applied via CSS variables. SCSS overrides are used for Bootstrap component styling in theme.scss.\nOutput: The website is rendered into the docs/ directory, which is configured for hosting on GitHub Pages.\n\n\n\n\n\n\n_quarto.yml: Main configuration file for the Quarto project.\nindex.qmd: The landing page of the website.\nsrc/: Contains YAML data files for dynamic content:\n\npublications.yml: List of research papers and preprints.\nteaching.yml: History of courses taught or assisted.\nnews.yml: News items for the homepage (if enabled).\n\ntheme/: Contains styling and templating files:\n\nejs/: Custom EJS templates (research.ejs, teaching.ejs).\ncss/: Custom CSS and SCSS files.\n\nfonts.css: Declares Google Font imports and global CSS variables (--mainFont, --codeFont) for typography.\ntheme.scss: Quarto SCSS theme overrides (colors, variables).\ncustom.css: Custom CSS rules for various components.\ncolors.css, styles.css, nutshell.css: Specialized CSS modules.\n\nhtml/: Custom HTML headers and footers.\n\ntalks/: Directory containing individual talk pages, each in its own subdirectory with an index.qmd.\nfiles/: Static files such as CV (PDF) and publication posters/papers.\nimages/: Profile pictures and other visual assets.\ndocs/: The generated static website files (do not edit directly).\n_extensions/: Quarto extensions like fontawesome, academicons, and nutshell.\nrenv/, renv.lock, .Rprofile: R environment management files.\n\n\n\n\n\n\n\nQuarto CLI\nR (optional, for managing dependencies via renv)\n\n\n\n\n\nPreview the website:\nquarto preview\nThis will start a local server and open the website in your browser with live reloading.\nRender the website:\nquarto render\nThis will generate the static files in the docs/ directory.\nRestore R environment: If you are using R-based features or extensions:\nrenv::restore()\n\n\n\n\n\n\nUpdating Publications/Teaching: Add or edit entries in src/publications.yml or src/teaching.yml. The pages will automatically update upon the next render.\nStyling and Typography:\n\nTo change global fonts, update the @import rules and CSS variables in theme/css/fonts.css.\nTo change theme colors or Bootstrap variables, modify theme/css/theme.scss.\nFor custom layout or component rules, use theme/css/custom.css.\n\nNew Talks: Create a new subdirectory in talks/ with an index.qmd file. The talks.qmd listing page will automatically include it.\nFreeze Policy: The project uses execute: freeze: true, meaning that computational output is only re-executed when source files change. This is useful for maintaining consistency across builds.\nGit Hook: Avoid staging or committing changes in the docs/ directory manually if you have an automated deployment flow, although for simple GitHub Pages setups, docs/ must be tracked."
   },
   {
-    "objectID": "test.html#interests",
-    "href": "test.html#interests",
-    "title": "Siddharth Vishwanath",
-    "section": "Interests",
-    "text": "Interests\n\nTopological data Analysis\nStatistical learning theory\nRobust statistics\nGenerative models\n\nYou can find out more about my work here."
+    "objectID": "GEMINI.html#project-overview",
+    "href": "GEMINI.html#project-overview",
+    "title": "Siddharth Vishwanath - Academic Website",
+    "section": "",
+    "text": "Technologies: Quarto, EJS, YAML, R (renv), CSS/SCSS.\nArchitecture:\n\nContent: Managed via .qmd files in the root and subdirectories (e.g., talks/).\nData-Driven Pages: research.qmd and teaching.qmd use custom EJS templates to render lists from YAML data files in src/.\nCustom Styling: Extensive custom styling is defined in theme/css/. Fonts are managed separately in fonts.css and applied via CSS variables. SCSS overrides are used for Bootstrap component styling in theme.scss.\nOutput: The website is rendered into the docs/ directory, which is configured for hosting on GitHub Pages."
   },
   {
-    "objectID": "test.html#latest-news",
-    "href": "test.html#latest-news",
+    "objectID": "GEMINI.html#directory-structure",
+    "href": "GEMINI.html#directory-structure",
+    "title": "Siddharth Vishwanath - Academic Website",
+    "section": "",
+    "text": "_quarto.yml: Main configuration file for the Quarto project.\nindex.qmd: The landing page of the website.\nsrc/: Contains YAML data files for dynamic content:\n\npublications.yml: List of research papers and preprints.\nteaching.yml: History of courses taught or assisted.\nnews.yml: News items for the homepage (if enabled).\n\ntheme/: Contains styling and templating files:\n\nejs/: Custom EJS templates (research.ejs, teaching.ejs).\ncss/: Custom CSS and SCSS files.\n\nfonts.css: Declares Google Font imports and global CSS variables (--mainFont, --codeFont) for typography.\ntheme.scss: Quarto SCSS theme overrides (colors, variables).\ncustom.css: Custom CSS rules for various components.\ncolors.css, styles.css, nutshell.css: Specialized CSS modules.\n\nhtml/: Custom HTML headers and footers.\n\ntalks/: Directory containing individual talk pages, each in its own subdirectory with an index.qmd.\nfiles/: Static files such as CV (PDF) and publication posters/papers.\nimages/: Profile pictures and other visual assets.\ndocs/: The generated static website files (do not edit directly).\n_extensions/: Quarto extensions like fontawesome, academicons, and nutshell.\nrenv/, renv.lock, .Rprofile: R environment management files."
+  },
+  {
+    "objectID": "GEMINI.html#building-and-running",
+    "href": "GEMINI.html#building-and-running",
+    "title": "Siddharth Vishwanath - Academic Website",
+    "section": "",
+    "text": "Quarto CLI\nR (optional, for managing dependencies via renv)\n\n\n\n\n\nPreview the website:\nquarto preview\nThis will start a local server and open the website in your browser with live reloading.\nRender the website:\nquarto render\nThis will generate the static files in the docs/ directory.\nRestore R environment: If you are using R-based features or extensions:\nrenv::restore()"
+  },
+  {
+    "objectID": "GEMINI.html#development-conventions",
+    "href": "GEMINI.html#development-conventions",
+    "title": "Siddharth Vishwanath - Academic Website",
+    "section": "",
+    "text": "Updating Publications/Teaching: Add or edit entries in src/publications.yml or src/teaching.yml. The pages will automatically update upon the next render.\nStyling and Typography:\n\nTo change global fonts, update the @import rules and CSS variables in theme/css/fonts.css.\nTo change theme colors or Bootstrap variables, modify theme/css/theme.scss.\nFor custom layout or component rules, use theme/css/custom.css.\n\nNew Talks: Create a new subdirectory in talks/ with an index.qmd file. The talks.qmd listing page will automatically include it.\nFreeze Policy: The project uses execute: freeze: true, meaning that computational output is only re-executed when source files change. This is useful for maintaining consistency across builds.\nGit Hook: Avoid staging or committing changes in the docs/ directory manually if you have an automated deployment flow, although for simple GitHub Pages setups, docs/ must be tracked."
+  },
+  {
+    "objectID": "test.html#x-vap",
+    "href": "test.html#x-vap",
     "title": "Siddharth Vishwanath",
-    "section": "Latest News",
-    "text": "Latest News\n\n\n\n\nOct 21, 2022\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\nAug 1, 2021\nRobust Persistence Diagrams\n\n\nDec 8, 2020\nRobust Persistence Diagrams using Reproducing Kernels\n\n\n\nNo matching items\n\n{{&lt; bi arrow-bar-right color=\"#047a06\" &gt;}} All Posts"
+    "section": ":x vap",
+    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
   },
   {
     "objectID": "talks/smac-2020/index.html",
@@ -98,27 +119,6 @@
     "text": "My CV is available as a PDF here. (Updated Sep 2025)"
   },
   {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n   Penn State University  Ph.D., Statistics, 2023\n   Indian Institute of Technology, Kanpur  M.Sc. (Integrated), Mathematics, 2015"
-  },
-  {
-    "objectID": "CV.html#awards",
-    "href": "CV.html#awards",
-    "title": "CV",
-    "section": "Awards",
-    "text": "Awards\n   Alumni Association Dissertation Award  Penn State University, 2023\n\n   Proficiency Medal  Indian Institute of Technology - Kanpur, 2015\n   Academic Excellence Award  Indian Institute of Technology - Kanpur, 2015\n   KVPY Fellowship  Department of Science & Technology  Government of India, 2010—2015"
-  },
-  {
-    "objectID": "CV.html#professional-experience",
-    "href": "CV.html#professional-experience",
-    "title": "CV",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n   IBM Research  Research Intern, 2022\n   Penn State University  Statistical Consultant, 2019—2022\n   Institute of Statistical Mathematics  Visiting Student Researcher, 2019 & 2018\n   Goldman Sachs  Senior Quantitative Analyst, 2016—2017\n   Nomura  Model Validation Quant, 2015—2016"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Posts",
@@ -173,104 +173,6 @@
     "title": "Teaching",
     "section": "",
     "text": "Here’s a list of the courses I’ve had the pleasure of teaching over the years. Course materials are available upon request.\n\n\n\n\n\n\n\n\n Course \n Title \n Offering \n Location \n\n\n\n\n\n\nMath 189\n\n\n    \n    Statistical Data Analysis and Inference\n    \n\n\n    \n        Winter 2024, Spring 2024, Winter 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nMath 183\n\n\n    \n    Statistical Methods\n    \n\n\n    \n        Fall 2023, Winter 2024, {Fall, Winter, Spring} 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nStat 380\n\n\n    \n    Data Science through Statistical reasoning\n    \n\n\n    \n        Spring 2023\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 319\n\n\n    \n    Fundamentals of Mathematical Statistics\n    \n\n\n    \n        Fall 2022\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 415\n\n\n    \n    Introduction to Mathematical Statistics\n    \n\n\n    \n        Spring 2018\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "test.html#x-vap",
-    "href": "test.html#x-vap",
-    "title": "Siddharth Vishwanath",
-    "section": ":x vap",
-    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Siddharth Vishwanath",
-    "section": "Education",
-    "text": "Education\n   Ph.D. Candidate, Statistics Penn State University\n   M.Sc. (Integrated), Mathematics  Indian Institute of Technology, Kanpur"
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Siddharth Vishwanath",
-    "section": "Interests",
-    "text": "Interests\n\nTopological data Analysis\nStatistical learning theory\nRobust statistics\nGenerative models\n\nYou can find out more about my work here."
-  },
-  {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Siddharth Vishwanath",
-    "section": "Latest News",
-    "text": "Latest News"
-  },
-  {
-    "objectID": "GEMINI.html",
-    "href": "GEMINI.html",
-    "title": "Siddharth Vishwanath - Academic Website",
-    "section": "",
-    "text": "This is the source code for the personal and academic website of Siddharth Vishwanath, built using Quarto. It is a data-driven website that leverages YAML for content management and EJS for custom templating.\n\n\n\nTechnologies: Quarto, EJS, YAML, R (renv), CSS/SCSS.\nArchitecture:\n\nContent: Managed via .qmd files in the root and subdirectories (e.g., talks/).\nData-Driven Pages: research.qmd and teaching.qmd use custom EJS templates to render lists from YAML data files in src/.\nCustom Styling: Extensive custom styling is defined in theme/css/. Fonts are managed separately in fonts.css and applied via CSS variables. SCSS overrides are used for Bootstrap component styling in theme.scss.\nOutput: The website is rendered into the docs/ directory, which is configured for hosting on GitHub Pages.\n\n\n\n\n\n\n_quarto.yml: Main configuration file for the Quarto project.\nindex.qmd: The landing page of the website.\nsrc/: Contains YAML data files for dynamic content:\n\npublications.yml: List of research papers and preprints.\nteaching.yml: History of courses taught or assisted.\nnews.yml: News items for the homepage (if enabled).\n\ntheme/: Contains styling and templating files:\n\nejs/: Custom EJS templates (research.ejs, teaching.ejs).\ncss/: Custom CSS and SCSS files.\n\nfonts.css: Declares Google Font imports and global CSS variables (--mainFont, --codeFont) for typography.\ntheme.scss: Quarto SCSS theme overrides (colors, variables).\ncustom.css: Custom CSS rules for various components.\ncolors.css, styles.css, nutshell.css: Specialized CSS modules.\n\nhtml/: Custom HTML headers and footers.\n\ntalks/: Directory containing individual talk pages, each in its own subdirectory with an index.qmd.\nfiles/: Static files such as CV (PDF) and publication posters/papers.\nimages/: Profile pictures and other visual assets.\ndocs/: The generated static website files (do not edit directly).\n_extensions/: Quarto extensions like fontawesome, academicons, and nutshell.\nrenv/, renv.lock, .Rprofile: R environment management files.\n\n\n\n\n\n\n\nQuarto CLI\nR (optional, for managing dependencies via renv)\n\n\n\n\n\nPreview the website:\nquarto preview\nThis will start a local server and open the website in your browser with live reloading.\nRender the website:\nquarto render\nThis will generate the static files in the docs/ directory.\nRestore R environment: If you are using R-based features or extensions:\nrenv::restore()\n\n\n\n\n\n\nUpdating Publications/Teaching: Add or edit entries in src/publications.yml or src/teaching.yml. The pages will automatically update upon the next render.\nStyling and Typography:\n\nTo change global fonts, update the @import rules and CSS variables in theme/css/fonts.css.\nTo change theme colors or Bootstrap variables, modify theme/css/theme.scss.\nFor custom layout or component rules, use theme/css/custom.css.\n\nNew Talks: Create a new subdirectory in talks/ with an index.qmd file. The talks.qmd listing page will automatically include it.\nFreeze Policy: The project uses execute: freeze: true, meaning that computational output is only re-executed when source files change. This is useful for maintaining consistency across builds.\nGit Hook: Avoid staging or committing changes in the docs/ directory manually if you have an automated deployment flow, although for simple GitHub Pages setups, docs/ must be tracked."
-  },
-  {
-    "objectID": "GEMINI.html#project-overview",
-    "href": "GEMINI.html#project-overview",
-    "title": "Siddharth Vishwanath - Academic Website",
-    "section": "",
-    "text": "Technologies: Quarto, EJS, YAML, R (renv), CSS/SCSS.\nArchitecture:\n\nContent: Managed via .qmd files in the root and subdirectories (e.g., talks/).\nData-Driven Pages: research.qmd and teaching.qmd use custom EJS templates to render lists from YAML data files in src/.\nCustom Styling: Extensive custom styling is defined in theme/css/. Fonts are managed separately in fonts.css and applied via CSS variables. SCSS overrides are used for Bootstrap component styling in theme.scss.\nOutput: The website is rendered into the docs/ directory, which is configured for hosting on GitHub Pages."
-  },
-  {
-    "objectID": "GEMINI.html#directory-structure",
-    "href": "GEMINI.html#directory-structure",
-    "title": "Siddharth Vishwanath - Academic Website",
-    "section": "",
-    "text": "_quarto.yml: Main configuration file for the Quarto project.\nindex.qmd: The landing page of the website.\nsrc/: Contains YAML data files for dynamic content:\n\npublications.yml: List of research papers and preprints.\nteaching.yml: History of courses taught or assisted.\nnews.yml: News items for the homepage (if enabled).\n\ntheme/: Contains styling and templating files:\n\nejs/: Custom EJS templates (research.ejs, teaching.ejs).\ncss/: Custom CSS and SCSS files.\n\nfonts.css: Declares Google Font imports and global CSS variables (--mainFont, --codeFont) for typography.\ntheme.scss: Quarto SCSS theme overrides (colors, variables).\ncustom.css: Custom CSS rules for various components.\ncolors.css, styles.css, nutshell.css: Specialized CSS modules.\n\nhtml/: Custom HTML headers and footers.\n\ntalks/: Directory containing individual talk pages, each in its own subdirectory with an index.qmd.\nfiles/: Static files such as CV (PDF) and publication posters/papers.\nimages/: Profile pictures and other visual assets.\ndocs/: The generated static website files (do not edit directly).\n_extensions/: Quarto extensions like fontawesome, academicons, and nutshell.\nrenv/, renv.lock, .Rprofile: R environment management files."
-  },
-  {
-    "objectID": "GEMINI.html#building-and-running",
-    "href": "GEMINI.html#building-and-running",
-    "title": "Siddharth Vishwanath - Academic Website",
-    "section": "",
-    "text": "Quarto CLI\nR (optional, for managing dependencies via renv)\n\n\n\n\n\nPreview the website:\nquarto preview\nThis will start a local server and open the website in your browser with live reloading.\nRender the website:\nquarto render\nThis will generate the static files in the docs/ directory.\nRestore R environment: If you are using R-based features or extensions:\nrenv::restore()"
-  },
-  {
-    "objectID": "GEMINI.html#development-conventions",
-    "href": "GEMINI.html#development-conventions",
-    "title": "Siddharth Vishwanath - Academic Website",
-    "section": "",
-    "text": "Updating Publications/Teaching: Add or edit entries in src/publications.yml or src/teaching.yml. The pages will automatically update upon the next render.\nStyling and Typography:\n\nTo change global fonts, update the @import rules and CSS variables in theme/css/fonts.css.\nTo change theme colors or Bootstrap variables, modify theme/css/theme.scss.\nFor custom layout or component rules, use theme/css/custom.css.\n\nNew Talks: Create a new subdirectory in talks/ with an index.qmd file. The talks.qmd listing page will automatically include it.\nFreeze Policy: The project uses execute: freeze: true, meaning that computational output is only re-executed when source files change. This is useful for maintaining consistency across builds.\nGit Hook: Avoid staging or committing changes in the docs/ directory manually if you have an automated deployment flow, although for simple GitHub Pages setups, docs/ must be tracked."
-  },
-  {
-    "objectID": "research.html#section",
-    "href": "research.html#section",
-    "title": "Research",
-    "section": "2024",
-    "text": "2024\n\n\nConfidence Sets for Multidimensional Scaling\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv\n\n\n\n\nSignal Recovery from Random Dot-Product Graphs under Local Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nInternational Conference on Artificial Intelligence and Statistics. AISTATS\n\n\nLink Code\n\n\n\n\nMinimax Optimality of Classical Scaling Under General Noise Conditions\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv"
-  },
-  {
-    "objectID": "research.html#section-1",
-    "href": "research.html#section-1",
-    "title": "Research",
-    "section": "2023",
-    "text": "2023\n\n\nStability of Sequential Lateration and of Stress Minimization in the Presence of Noise\n\n\nEry Arias-Castro, Siddharth Vishwanath\n\n\nSIAM Journal on the Mathematics of Data Science\n\n\nPreprint\n\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo\n\n\nSiddharth Vishwanath, Hyungsuk Tak\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nFoundations of Data Science\n\n\nLink Slides Talk"
-  },
-  {
-    "objectID": "research.html#section-2",
-    "href": "research.html#section-2",
-    "title": "Research",
-    "section": "2021",
-    "text": "2021\n\n\nAdversarially Robust Topological Inference\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu, and Satoshi Kuriki\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\nRobert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon\n\n\nSoil Science Society of America Journal. Springer\n\n\nLink"
-  },
-  {
-    "objectID": "research.html#section-3",
-    "href": "research.html#section-3",
-    "title": "Research",
-    "section": "2020",
-    "text": "2020\n\n\nThe Shape of Edge Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nTheory and Practice of Differential Privacy Workshop, ICML\n\n\nPoster Workshop Paper\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nAdvances in Neural Information Processing Systems. NeurIPS\n\n\nLink Slides Code Poster"
-  },
-  {
-    "objectID": "research.html#section-4",
-    "href": "research.html#section-4",
-    "title": "Research",
-    "section": "2016",
-    "text": "2016\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\nSiddharth Vishwanath, Debasis Kundu\n\n\nAdvances in Reliability and System Engineering. Springer\n\n\nLink"
   },
   {
     "objectID": "CLAUDE.html",

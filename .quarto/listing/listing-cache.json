@@ -11,12 +11,6 @@
     ],
     "teaching.qmd": [
       "src/teaching.yml"
-    ],
-    "test.qmd": [
-      "talks"
-    ],
-    "index.qmd": [
-      "talks"
     ]
   }
 }
