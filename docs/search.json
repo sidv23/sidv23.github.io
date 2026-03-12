@@ -46,7 +46,7 @@
     "href": "talks/atmcs-2020/index.html",
     "title": "Statistical Invariance of Betti Numbers",
     "section": "",
-    "text": "The link to the slides is here. You can also wacth the talk on YouTube here"
+    "text": "The link to the slides is here. You can also watch the talk on YouTube here"
   },
   {
     "objectID": "talks.html",
@@ -271,5 +271,26 @@
     "title": "Research",
     "section": "2016",
     "text": "2016\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\nSiddharth Vishwanath, Debasis Kundu\n\n\nAdvances in Reliability and System Engineering. Springer\n\n\nLink"
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\n\nPreview locally (with live reload): quarto preview\nRender to static HTML: quarto render\nRender a single file: quarto render research.qmd\nRestore R environment (if needed): renv::restore() in R\n\nOutput is always written to docs/ — do not edit files there directly.\n\n\n\nThis is a Quarto-based academic website for Siddharth Vishwanath, deployed to GitHub Pages from the docs/ directory.\n\n\nContent is split into three layers:\n\nYAML data (src/) — source of truth for publications, teaching, and news\nEJS templates (theme/ejs/) — render YAML into HTML fragments consumed by .qmd pages\nQuarto pages (root .qmd files) — top-level pages that embed EJS-rendered content\n\nTo add a publication, edit src/publications.yml. To add a talk, create talks/&lt;slug&gt;/index.qmd — it will auto-appear on talks.qmd.\n\n\n\nStyles are applied in this load order (declared in _quarto.yml): 1. theme/css/colors.css — color variables 2. theme/css/fonts.css — font imports (Google Fonts) and CSS variables (--mainFont, --codeFont, etc.) 3. theme/css/custom.css — component rules 4. theme/css/publications.css — publication list styling 5. theme/css/theme.scss — Bootstrap/Quarto SCSS variable overrides\nTo change global fonts: edit fonts.css. To change theme colors or Bootstrap variables: edit theme.scss. For layout/component tweaks: use custom.css.\n\n\n\nexecute: freeze: true is set globally — computational cells only re-run when source files change. This keeps builds fast and reproducible.\n\n\n\n\n_quarto.yml — project config (nav, theme, CSS order, analytics, output dir)\nsrc/publications.yml — all research publications with metadata and links\ntheme/ejs/research.ejs — EJS template that renders publications list\ntheme/html/header.html — loads Font Awesome, Academicons, and Juxtapose.js via CDN"
+  },
+  {
+    "objectID": "CLAUDE.html#commands",
+    "href": "CLAUDE.html#commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Preview locally (with live reload): quarto preview\nRender to static HTML: quarto render\nRender a single file: quarto render research.qmd\nRestore R environment (if needed): renv::restore() in R\n\nOutput is always written to docs/ — do not edit files there directly."
+  },
+  {
+    "objectID": "CLAUDE.html#architecture",
+    "href": "CLAUDE.html#architecture",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This is a Quarto-based academic website for Siddharth Vishwanath, deployed to GitHub Pages from the docs/ directory.\n\n\nContent is split into three layers:\n\nYAML data (src/) — source of truth for publications, teaching, and news\nEJS templates (theme/ejs/) — render YAML into HTML fragments consumed by .qmd pages\nQuarto pages (root .qmd files) — top-level pages that embed EJS-rendered content\n\nTo add a publication, edit src/publications.yml. To add a talk, create talks/&lt;slug&gt;/index.qmd — it will auto-appear on talks.qmd.\n\n\n\nStyles are applied in this load order (declared in _quarto.yml): 1. theme/css/colors.css — color variables 2. theme/css/fonts.css — font imports (Google Fonts) and CSS variables (--mainFont, --codeFont, etc.) 3. theme/css/custom.css — component rules 4. theme/css/publications.css — publication list styling 5. theme/css/theme.scss — Bootstrap/Quarto SCSS variable overrides\nTo change global fonts: edit fonts.css. To change theme colors or Bootstrap variables: edit theme.scss. For layout/component tweaks: use custom.css.\n\n\n\nexecute: freeze: true is set globally — computational cells only re-run when source files change. This keeps builds fast and reproducible.\n\n\n\n\n_quarto.yml — project config (nav, theme, CSS order, analytics, output dir)\nsrc/publications.yml — all research publications with metadata and links\ntheme/ejs/research.ejs — EJS template that renders publications list\ntheme/html/header.html — loads Font Awesome, Academicons, and Juxtapose.js via CDN"
   }
 ]
