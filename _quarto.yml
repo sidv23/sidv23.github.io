@@ -16,8 +16,15 @@ website:
   google-analytics: "UA-41844991-1"
   description: "Homepage"
   page-footer:
-    left: '`Siddharth Vishwanath. 2026`'
-    right: "`Built with` [`Quarto`](https://quarto.org/)"
+    left: '[© Siddharth Vishwanath • 2026]{style="color: var(--highlightColor);"}'
+    right: "Built with [Quarto](https://quarto.org/)"
+    center:
+        - text: "{{< fa brands github >}}"
+          url: https://github.com/sidv23 
+        - text: "{{< fa brands linkedin >}}"
+          url: https://www.linkedin.com/in/sidv23/
+        - text: "{{< ai google-scholar >}}"
+          url: https://scholar.google.com/citations?user=7TQaHEEAAAAJ&hl=en&sortby=pubdate
   navbar:
     align: center
     logo: icons/icon-192x192.png

@@ -1,3 +1,37 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: 0.2px solid #252626;
+    background-color: #faf8f8;
+    color: #36454f !important;
+    font-size: 0.75em;
+    text-decoration: none !important;
+    /* border-bottom: none !important; */
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.social-link:hover {
+    background-color: var(--highlightColor);
+    color: white !important;
+    border-color: var(--highlightColor);
+    transform: translateY(-0px);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.social-link i, .social-link svg {
+    margin-right: 6px;
+}
+
 /* ------------------------------------------------------ */
 
 .callout {

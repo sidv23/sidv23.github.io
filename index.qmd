@@ -29,10 +29,6 @@ execute:
 
 ::::: {.columns}
 
-
-
-
-
 :::: {.column width="35%"}
 
 <div class="juxtapose" data-startingposition="40%" style="max-width: 300px !important; align-items: center; margin: 0 auto;">
@@ -40,10 +36,10 @@ execute:
 <img src="images/profile7.png" data-label="" alt="">
 </div>
 
-::: {style="text-align: center; font-size: 1.5em; margin-top: 10px;"}
-[<i class="fa-brands fa-linkedin"></i> ](https://linkedin.com/in/sidv23) ·
-[<i class="fa-brands fa-github"></i> ](https://github.com/sidv23) ·
-[<i class="ai ai-google-scholar-square"></i> ](https://scholar.google.com/citations?user=7TQaHEEAAAAJ&hl=en)
+::: {.social-links style="margin-top: 10px;"}
+[{{< fa brands github >}} Github ](https://github.com/sidv23){.social-link}
+[{{< fa brands linkedin >}} LinkedIn ](https://linkedin.com/in/sidv23){.social-link}
+[{{< ai google-scholar >}} Google Scholar ](https://scholar.google.com/citations?user=7TQaHEEAAAAJ&hl=en&sortby=pubdate){.social-link}
 :::
 
 ::: {style="text-align: center; margin-top: 10px;"}
@@ -64,6 +60,7 @@ execute:
 
 
 :::: {.column width="60%"}
+
 I am a Stefan E. Warschawski [:Visiting Assistant Professor](#x-vap){style="color: var(--highlightColor);"} in the [Department of Mathematics](https://www.math.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/), mentored by [Ery Arias-Castro](https://mathweb.ucsd.edu/~eariasca/).
 
 I completed my Ph.D. at [Penn State University](https://www.psu.edu/), advised by [Bharath Sriperumbudur](https://bharathsv.github.io/), where my dissertation was recognized with the [Alumni Association Dissertation Award](https://science.psu.edu/news/2023-alumni-association-dissertation-awards). During my time at Penn State, I was also a research assistant and consultant with the [Statistical Consulting Center](https://scc.stat.psu.edu/).
