@@ -35,7 +35,7 @@ execute:
 
 :::: {.column width="35%"}
 
-<div class="juxtapose" data-startingposition="40%" style="width: 250px;">
+<div class="juxtapose" data-startingposition="40%" style="max-width: 300px !important; align-items: center; margin: 0 auto;">
 <img src="images/profile7-3.png" data-label="" alt="">
 <img src="images/profile7.png" data-label="" alt="">
 </div>
@@ -47,7 +47,7 @@ execute:
 :::
 
 ::: {style="text-align: center; margin-top: 10px;"}
-<i class="fa-solid fa-envelope"></i> svishwanath [at] ucsd [dot] edu
+[<i class="fa-solid fa-envelope"></i>]() svishwanath [at] ucsd [dot] edu
 :::
 ::::
 
