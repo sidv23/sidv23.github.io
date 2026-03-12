@@ -22,7 +22,7 @@ execute:
 
 <!-- color: rgb(132, 45, 245); -->
 
-::: {style="text-align: left;"}
+::: {style="text-align: center;"}
 ## [[**Siddharth**]{style="font-weight: 450; color: var(--highlightColor);"} Vishwanath]{style="font-size: 35px; font-weight: 100;"}
 :::
 
