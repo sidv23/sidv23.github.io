@@ -49,15 +49,18 @@ website:
       text: $\zeta(-1)$
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      # - theme/css/theme.scss
       # light: simplex
       # dark: slate
     css: 
       - theme/css/colors.css
+      - theme/css/fonts.css
       - theme/css/custom.css
+      - theme/css/publications.css
       - theme/css/styles.css
       - theme/css/nutshell.css
-      # - theme/css/theme.scss
     toc: true
     html-math-method: katex
     include-in-header:

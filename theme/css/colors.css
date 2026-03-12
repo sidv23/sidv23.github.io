@@ -17,6 +17,8 @@
 .dpurple { color: rgb(122, 45, 245); }
 
 :root {
+    /* --highlightColor: dodgerblue; */
+    --highlightColor: rgb(122, 45, 245);
     --psublue: #1e407c;
     --psu-blue: #1e407c;
     --black: black;
@@ -33,7 +35,6 @@
     --orchid: #db43d5;
     --dorange: #ff5900;
     --dpurple: rgb(122, 45, 245);
-    --mainFont: 'PT Sans', sans-serif;
 }
 
 

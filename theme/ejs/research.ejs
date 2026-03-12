@@ -1,15 +1,61 @@
-<% for (item of items) { %>
+<%
+function formatAuthors(authors) {
+  return authors
+    .replace(/@Siddharth Vishwanath/g, '[Siddharth Vishwanath]{.author-self}')
+    .replace(/\[\[([^\]]+)\]\]/g, '$1');
+}
+function getYear(date) {
+  return new Date(date).getFullYear();
+}
+%>
+<div class="pub-search-wrap"><span class="pub-search-icon"><i class="fas fa-magnifying-glass"></i></span><input id="pub-search" class="pub-search-input" type="text" placeholder="Search by title, author, or venue…" oninput="filterPublications(this.value)" autocomplete="off" spellcheck="false"></div>
 
-:::: {<%= item['status']==='unpublished' ? '.callout-warning' : '.callout-note' %> icon=false collapse=false}
-## <%= item.title %>
+::: {#publication-list .publication-list}
+<% for (const item of items) { %>
 
-<%= item.authors.map(author => author === "Siddharth Vishwanath" ? `[Siddharth Vishwanath]{style="color: #005A9C80;"}` : author).join(", ") %>
-<br>
-[_<%= item.journal %>. (<%= item.date %>)_]{style="text-align: left;"}
-[<% if ((item.info || []).length > 0) { %>
-<%= item.info.map(info=> `[[${info.name}](${info.url})]`).join(", ") %>
-<% } %>]{style="text-align: right;"}
+::: {.publication-item}
 
-::::
+<% if (item.thumbnail) { %>
+::: {.pub-left-col}
+[![<%= item.title %>](<%= item.thumbnail %>){.pub-thumbnail}](<%= (item.info && item.info[0]) ? item.info[0].url : '#' %>)
+:::
+<% } else { %>
+::: {.pub-left-col .pub-year-only}
+<%= getYear(item.date) %>
+:::
+<% } %>
+
+::: {.pub-right-col}
+
+::: {.publication-title}
+<%= item.title %>
+:::
+
+::: {.publication-authors}
+<%- formatAuthors(item.authors) %>
+:::
+
+::: {.publication-venue}
+*<%= item.journal %>*
+:::
+
+<% if (item.info && item.info.length > 0) { %>
+::: {.publication-links}
+<% for (const link of item.info) { %>[<%= link.name %>](<%= link.url %>){.pub-badge target="_blank"} <% } %>
+:::
+<% } %>
+
+:::
+
+:::
 
 <% } %>
+:::
+<script>
+function filterPublications(query) {
+  var q = query.toLowerCase().trim();
+  document.querySelectorAll('#publication-list .publication-item').forEach(function(el) {
+    el.style.display = (q === '' || el.textContent.toLowerCase().includes(q)) ? '' : 'none';
+  });
+}
+</script>
