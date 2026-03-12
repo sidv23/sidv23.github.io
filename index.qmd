@@ -99,4 +99,3 @@ A _Visiting Assistant Professor_ in a Math department is a postdoctoral position
 
 
 <!-- {{< bi arrow-bar-right color="#047a06" >}} *[All Posts](blog.qmd)* -->
-:::
