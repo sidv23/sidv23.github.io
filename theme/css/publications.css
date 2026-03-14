@@ -119,16 +119,16 @@
 .publication-title {
     font-weight: 700;
     font-size: 0.975rem;
-    line-height: 1.5;
+    line-height: 1.3;
     color: #1a1a1a;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.1rem;
 }
 
 .publication-authors {
     font-size: 0.875rem;
     color: #666;
-    line-height: 1.5;
-    margin-bottom: 0.15rem;
+    line-height: 1.4;
+    margin-bottom: 0.1rem;
 }
 
 .author-self {
@@ -141,7 +141,7 @@
     font-size: 0.875rem;
     color: #999;
     line-height: 1.4;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.35rem;
 }
 
 .publication-venue em {
