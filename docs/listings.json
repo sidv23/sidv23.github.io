@@ -1,5 +1,20 @@
 [
   {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/talks.html",
     "items": [
       "/talks/CAst-2022/index.html",
@@ -11,20 +26,5 @@
       "/talks/jsm-2020/index.html",
       "/talks/atmcs-2020/index.html"
     ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": []
-  },
-  {
-    "listing": "/teaching.html",
-    "items": []
   }
 ]

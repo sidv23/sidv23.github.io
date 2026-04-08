@@ -40,6 +40,7 @@
 
 body {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
     font-size: var(--bodyFontSize);
     line-height: var(--bodyLineHeight);
     background-color: #faf8f810;
@@ -54,6 +55,7 @@ form,
 input[type="search"],
 select[multiple="multiple"] {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 h1,
@@ -62,6 +64,7 @@ h3,
 h4,
 h5 {
     font-family: var(--headingFont);
+    font-style: var(--headingFontStyle);
     color: #36454f;
     font-weight: bold;
 }
@@ -92,6 +95,7 @@ h6 {
 /* Listing card titles (talks grid) use body font, not heading font */
 h5.listing-title {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 /* ── Mobile: stack homepage columns vertically ──────────── */
@@ -194,6 +198,7 @@ output {
 nav,
 .footer {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
     font-size: 100%;
 }
 
@@ -227,10 +232,12 @@ a.badge.badge-green {
     padding: 5px 5px 3px 5px;
     text-transform: none;
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 .badge {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 .label,
@@ -313,6 +320,7 @@ a.badge.badge-green {
 
 .quarto-title-meta {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
     background-color: #ddd;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -349,6 +357,7 @@ a.badge.badge-green {
 
 .quarto-listing-category.category-cloud {
     font-family: var(--mainFont) !important;
+    font-style: var(--mainFontStyle) !important;
 }
 
 .figure-caption {
@@ -357,6 +366,7 @@ a.badge.badge-green {
     padding-left: 20px;
     font-size: 12pt;
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 div.quarto-about-trestles .about-entity .about-link:hover {
@@ -376,6 +386,7 @@ div.quarto-about-trestles .about-entity .about-link:hover {
 .listing-actions-group,
 .about-link-text {
     font-family: var(--mainFont);
+    font-style: var(--mainFontStyle);
 }
 
 #mlb2-4240669.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,

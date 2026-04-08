@@ -8,6 +8,7 @@ project:
   render:
     - "*.qmd"
     - "*.md"
+    - "!test.qmd"
 website:
   title: "Siddharth Vishwanath"
   favicon: icons/icon-48x48.png

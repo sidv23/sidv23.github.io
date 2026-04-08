@@ -35,60 +35,67 @@
     "text": "Updating Publications/Teaching: Add or edit entries in src/publications.yml or src/teaching.yml. The pages will automatically update upon the next render.\nStyling and Typography:\n\nTo change global fonts, update the @import rules and CSS variables in theme/css/fonts.css.\nTo change theme colors or Bootstrap variables, modify theme/css/theme.scss.\nFor custom layout or component rules, use theme/css/custom.css.\n\nNew Talks: Create a new subdirectory in talks/ with an index.qmd file. The talks.qmd listing page will automatically include it.\nFreeze Policy: The project uses execute: freeze: true, meaning that computational output is only re-executed when source files change. This is useful for maintaining consistency across builds.\nGit Hook: Avoid staging or committing changes in the docs/ directory manually if you have an automated deployment flow, although for simple GitHub Pages setups, docs/ must be tracked."
   },
   {
-    "objectID": "test.html#x-vap",
-    "href": "test.html#x-vap",
-    "title": "Siddharth Vishwanath",
-    "section": ":x vap",
-    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Here’s a list of the courses I’ve had the pleasure of teaching over the years. Course materials are available upon request.\n\n\n\n\n\n\n\n\n Course \n Title \n Offering \n Location \n\n\n\n\n\n\nMath 189\n\n\n    \n    Statistical Data Analysis and Inference\n    \n\n\n    \n        Winter 2024, Spring 2024, Winter 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nMath 183\n\n\n    \n    Statistical Methods\n    \n\n\n    \n        Fall 2023, Winter 2024, {Fall, Winter, Spring} 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nStat 380\n\n\n    \n    Data Science through Statistical reasoning\n    \n\n\n    \n        Spring 2023\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 319\n\n\n    \n    Fundamentals of Mathematical Statistics\n    \n\n\n    \n        Fall 2022\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 415\n\n\n    \n    Introduction to Mathematical Statistics\n    \n\n\n    \n        Spring 2018\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/smac-2020/index.html",
-    "href": "talks/smac-2020/index.html",
-    "title": "Statistical Inference for TDA",
+    "objectID": "talks/oct-2021/index.html",
+    "href": "talks/oct-2021/index.html",
+    "title": "Overview of Robust TDA",
     "section": "",
     "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks/neurips-2020/index.html",
-    "href": "talks/neurips-2020/index.html",
-    "title": "Robust Persistence Diagrams using Reproducing Kernels",
+    "objectID": "talks/jsm-2021/index.html",
+    "href": "talks/jsm-2021/index.html",
+    "title": "Robust Persistence Diagrams",
     "section": "",
     "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks/jsm-2020/index.html",
-    "href": "talks/jsm-2020/index.html",
-    "title": "Statistical Invariance of Betti Numbers",
+    "objectID": "talks/comps-2020/index.html",
+    "href": "talks/comps-2020/index.html",
+    "title": "Statistical Learning for Robust Topological Inference",
     "section": "",
     "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks/atmcs-2020/index.html",
-    "href": "talks/atmcs-2020/index.html",
-    "title": "Statistical Invariance of Betti Numbers",
+    "objectID": "talks/CAst-2022/index.html",
+    "href": "talks/CAst-2022/index.html",
+    "title": "Hamiltonian Repelling Attracting Metropolis Algorithm",
     "section": "",
-    "text": "The link to the slides is here. You can also watch the talk on YouTube here"
+    "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Here are the links to the slides from some selected talks I have given in the past.\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\nCenter for Astrostatistics, 2022\n\n\n\nOct 2022\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\nJoint Statistical Meetings, 2021\n\n\n\nAug 2021\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nNeurIPS 2020\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\nSlides for My Comprehensive Exam\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\nIBM Research\n\n\n\nOct 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\nStohastic Modelling and Computational Statistics Talk, 2020\n\n\n\nSep 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nJoint Statistical Meetings, 2020\n\n\n\nAug 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nApplied Topology: Methods, Compuation and Science, 2021\n\n\n\nJul 2020\n\n\n\n\n\n\nNo matching items"
+    "text": "The following is a list of my publications and preprints. A complete list can be found on Google Scholar.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025\n\n\n\nConfidence Sets for Multidimensional Scaling\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv\n\n\n\n\n\n2025\n\n\n\nSignal Recovery from Random Dot-Product Graphs under Local Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nInternational Conference on Artificial Intelligence and Statistics. AISTATS\n\n\nLink Code\n\n\n\n\n\n2025\n\n\n\nMinimax Optimality of Classical Scaling Under General Noise Conditions\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv\n\n\n\n\n\n2024\n\n\n\nStability of Sequential Lateration and of Stress Minimization in the Presence of Noise\n\n\nEry Arias-Castro, Siddharth Vishwanath\n\n\nSIAM Journal on the Mathematics of Data Science\n\n\nPreprint\n\n\n\n\n\n2024\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo\n\n\nSiddharth Vishwanath, Hyungsuk Tak\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\n\n2022\n\n\n\nAdversarially Robust Topological Inference\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu, and Satoshi Kuriki\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\n\n2024\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nFoundations of Data Science\n\n\nLink Slides Talk\n\n\n\n\n\n2022\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\nRobert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon\n\n\nSoil Science Society of America Journal. Springer\n\n\nLink\n\n\n\n\n\n2021\n\n\n\nThe Shape of Edge Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nTheory and Practice of Differential Privacy Workshop, ICML\n\n\nPoster Workshop Paper\n\n\n\n\n\n2021\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nAdvances in Neural Information Processing Systems. NeurIPS\n\n\nLink Slides Code Poster\n\n\n\n\n\n2017\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\nSiddharth Vishwanath, Debasis Kundu\n\n\nAdvances in Reliability and System Engineering. Springer\n\n\nLink\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code.\nThis chunk executes R code\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\nThis chunk executes python code\nimport os\nos.getwd()\nThis chunk executes Julia code\n\nusing Plots\nplot(\n    1:0.1:5, \n    x -&gt; x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)"
   },
   {
-    "objectID": "index.html#x-vap",
-    "href": "index.html#x-vap",
-    "title": "Siddharth Vishwanath",
-    "section": ":x vap",
-    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV is available as a PDF here. (Updated Sep 2025)"
   },
   {
     "objectID": "bak/teaching.html",
@@ -112,67 +119,53 @@
     "text": "Teaching Assistant\n\nFall 2021: Stat 597, Nonparametrics and Statistical Learning Theory (course website)\nSummer 2019: Stat 504, Multivariate Analysis\nSpring 2019: Stat 250, Introduction to Biostatistics\nFall 2018: Stat 511, Graduate Course on Regression Analysis\nFall 2017: Stat 415, Introduction to Mathematical Statistics"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
-    "section": "",
-    "text": "My CV is available as a PDF here. (Updated Sep 2025)"
+    "objectID": "index.html#x-vap",
+    "href": "index.html#x-vap",
+    "title": "Siddharth Vishwanath",
+    "section": ":x vap",
+    "text": ":x vap\nA Visiting Assistant Professor in a Math department is a postdoctoral position with (sometimes) better parking privileges."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Posts",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Hi this is the title page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nSiddharth Vishwanath\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nJan 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "This is a post with executable code.\nThis chunk executes R code\nlibrary(reticulate)\nlibrary(JuliaCall)\nplot(\n    rnorm(100), \n    rnorm(100),\n    pch=20,\n    col=\"dodgerblue1\"\n)\nThis chunk executes python code\nimport os\nos.getwd()\nThis chunk executes Julia code\n\nusing Plots\nplot(\n    1:0.1:5, \n    x -&gt; x^1.1 + log(x) * sinpi(x), \n    label=\"\"\n)"
+    "text": "Here are the links to the slides from some selected talks I have given in the past.\n\n\n\n\n\n\n\n\n\n\n\nHamiltonian Repelling Attracting Metropolis Algorithm\n\n\nCenter for Astrostatistics, 2022\n\n\n\nOct 2022\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams\n\n\nJoint Statistical Meetings, 2021\n\n\n\nAug 2021\n\n\n\n\n\n\n\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nNeurIPS 2020\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Learning for Robust Topological Inference\n\n\nSlides for My Comprehensive Exam\n\n\n\nDec 2020\n\n\n\n\n\n\n\n\n\n\nOverview of Robust TDA\n\n\nIBM Research\n\n\n\nOct 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Inference for TDA\n\n\nStohastic Modelling and Computational Statistics Talk, 2020\n\n\n\nSep 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nJoint Statistical Meetings, 2020\n\n\n\nAug 2020\n\n\n\n\n\n\n\n\n\n\nStatistical Invariance of Betti Numbers\n\n\nApplied Topology: Methods, Compuation and Science, 2021\n\n\n\nJul 2020\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "talks/atmcs-2020/index.html",
+    "href": "talks/atmcs-2020/index.html",
+    "title": "Statistical Invariance of Betti Numbers",
     "section": "",
-    "text": "The following is a list of my publications and preprints. A complete list can be found on Google Scholar.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025\n\n\n\nConfidence Sets for Multidimensional Scaling\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv\n\n\n\n\n\n2025\n\n\n\nSignal Recovery from Random Dot-Product Graphs under Local Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nInternational Conference on Artificial Intelligence and Statistics. AISTATS\n\n\nLink Code\n\n\n\n\n\n2025\n\n\n\nMinimax Optimality of Classical Scaling Under General Noise Conditions\n\n\nSiddharth Vishwanath, Ery Arias-Castro\n\n\nUnder Review\n\n\narXiv\n\n\n\n\n\n2024\n\n\n\nStability of Sequential Lateration and of Stress Minimization in the Presence of Noise\n\n\nEry Arias-Castro, Siddharth Vishwanath\n\n\nSIAM Journal on the Mathematics of Data Science\n\n\nPreprint\n\n\n\n\n\n2024\n\n\n\nRepelling-Attracting Hamiltonian Monte Carlo\n\n\nSiddharth Vishwanath, Hyungsuk Tak\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\n\n2022\n\n\n\nAdversarially Robust Topological Inference\n\n\nSiddharth Vishwanath, Bharath Sriperumbudur, Kenji Fukumizu, and Satoshi Kuriki\n\n\nUnder Review\n\n\narXiv code\n\n\n\n\n\n2024\n\n\n\nOn the limits of Topological Data Analysis for Statistical Inference\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nFoundations of Data Science\n\n\nLink Slides Talk\n\n\n\n\n\n2022\n\n\n\nMonolith Soil Core Sampling to Develop Nitrate Testing Protocol for Manure Injection\n\n\nRobert J. Meinen, Douglas B. Beegle, Siddharth Vishwanath, Peter J. A. Kleinman, Louis S. Saporito, John Spargo, Heather Karsten, Justin Dillon\n\n\nSoil Science Society of America Journal. Springer\n\n\nLink\n\n\n\n\n\n2021\n\n\n\nThe Shape of Edge Differential Privacy\n\n\nSiddharth Vishwanath, Jonathan Hehir\n\n\nTheory and Practice of Differential Privacy Workshop, ICML\n\n\nPoster Workshop Paper\n\n\n\n\n\n2021\n\n\n\nRobust Persistence Diagrams using Reproducing Kernels\n\n\nSiddharth Vishwanath, Kenji Fukumizu, Satoshi Kuriki, and Bharath Sriperumbudur\n\n\nAdvances in Neural Information Processing Systems. NeurIPS\n\n\nLink Slides Code Poster\n\n\n\n\n\n2017\n\n\n\nBayesian Inference and Optimal Censoring Scheme under Progressive Censoring\n\n\nSiddharth Vishwanath, Debasis Kundu\n\n\nAdvances in Reliability and System Engineering. Springer\n\n\nLink\n\n\n\n\n\nNo matching items"
+    "text": "The link to the slides is here. You can also watch the talk on YouTube here"
   },
   {
-    "objectID": "talks/CAst-2022/index.html",
-    "href": "talks/CAst-2022/index.html",
-    "title": "Hamiltonian Repelling Attracting Metropolis Algorithm",
+    "objectID": "talks/jsm-2020/index.html",
+    "href": "talks/jsm-2020/index.html",
+    "title": "Statistical Invariance of Betti Numbers",
     "section": "",
     "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks/comps-2020/index.html",
-    "href": "talks/comps-2020/index.html",
-    "title": "Statistical Learning for Robust Topological Inference",
+    "objectID": "talks/neurips-2020/index.html",
+    "href": "talks/neurips-2020/index.html",
+    "title": "Robust Persistence Diagrams using Reproducing Kernels",
     "section": "",
     "text": "The link to the slides is here."
   },
   {
-    "objectID": "talks/jsm-2021/index.html",
-    "href": "talks/jsm-2021/index.html",
-    "title": "Robust Persistence Diagrams",
+    "objectID": "talks/smac-2020/index.html",
+    "href": "talks/smac-2020/index.html",
+    "title": "Statistical Inference for TDA",
     "section": "",
     "text": "The link to the slides is here."
-  },
-  {
-    "objectID": "talks/oct-2021/index.html",
-    "href": "talks/oct-2021/index.html",
-    "title": "Overview of Robust TDA",
-    "section": "",
-    "text": "The link to the slides is here."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Here’s a list of the courses I’ve had the pleasure of teaching over the years. Course materials are available upon request.\n\n\n\n\n\n\n\n\n Course \n Title \n Offering \n Location \n\n\n\n\n\n\nMath 189\n\n\n    \n    Statistical Data Analysis and Inference\n    \n\n\n    \n        Winter 2024, Spring 2024, Winter 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nMath 183\n\n\n    \n    Statistical Methods\n    \n\n\n    \n        Fall 2023, Winter 2024, {Fall, Winter, Spring} 2025\n    \n\n\n    \n        UC San Diego\n    \n\n\n\n\n\n\n\nStat 380\n\n\n    \n    Data Science through Statistical reasoning\n    \n\n\n    \n        Spring 2023\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 319\n\n\n    \n    Fundamentals of Mathematical Statistics\n    \n\n\n    \n        Fall 2022\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\n\nMath/Stat 415\n\n\n    \n    Introduction to Mathematical Statistics\n    \n\n\n    \n        Spring 2018\n    \n\n\n    \n        Penn State\n    \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "CLAUDE.html",
